@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+
+$body-bg: #361c1c;
+$body-color: #f7f2ef;
+
+$navbar-bg: #5a302f; 
+$navbar-fg: #ffffff;
+$navbar-hl: #f7f2ef;
+
+/*-- scss:rules --*/
+
+.navbar {
+  box-shadow: 0 2px 10px rgba(0,0,0,.7);
+}

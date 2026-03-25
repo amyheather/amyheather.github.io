@@ -1,0 +1,11 @@
+---
+title: Contributions
+---
+
+* simtools
+* Review hybrid model (matthew) and nurse staffing model
+* johns stroke model
+* review for jos
+* atlas
+* vidigi
+* HSMA little book of des

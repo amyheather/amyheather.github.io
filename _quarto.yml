@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Amy Heather"
+  navbar:
+    left:
+      - projects/index.qmd
+      - training/index.qmd
+      - contributions/index.qmd
+      - publications/index.qmd
+      - packages/index.qmd
+      - community/index.qmd
+    right:
+      - icon: github
+        text: GitHub
+        href: https://github.com/amyheather/amyheather.github.io/
+
+format:
+  html:
+    theme:
+      - styles/theme.scss
+    css:
+      - styles/styles.css

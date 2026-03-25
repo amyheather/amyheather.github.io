@@ -1,0 +1,14 @@
+---
+title: Projects
+---
+
+* Samuel
+* Causal
+* Kailo
+* IPACS
+* Health economics
+* Ambulance
+* Oncology
+* NHS reuse
+* Reproducibility assessments
+    * gw4 open research award
