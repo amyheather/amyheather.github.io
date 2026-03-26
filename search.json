@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "training/index.html",
-    "href": "training/index.html",
-    "title": "Training",
-    "section": "",
-    "text": "Training / Teaching\n\nDES RAP Book\nHDR UK Tests\nQuarto"
-  },
-  {
     "objectID": "packages/index.html",
     "href": "packages/index.html",
     "title": "Packages",
@@ -14,11 +7,11 @@
     "text": "lintquarto\nalt-text-linter"
   },
   {
-    "objectID": "contributions/index.html",
-    "href": "contributions/index.html",
-    "title": "Contributions",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
+    "text": "Samuel\nCausal\nKailo\nIPACS\nHealth economics\nAmbulance\nOncology\nNHS reuse\nReproducibility assessments\n\ngw4 open research award"
   },
   {
     "objectID": "index.html",
@@ -42,17 +35,24 @@
     "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Samuel\nCausal\nKailo\nIPACS\nHealth economics\nAmbulance\nOncology\nNHS reuse\nReproducibility assessments\n\ngw4 open research award"
-  },
-  {
     "objectID": "community/index.html",
     "href": "community/index.html",
     "title": "Community",
     "section": "",
     "text": "NHS model reuse club\nCoding club\nEuHEA July 2022\nRPySoc 2025\nSW25"
+  },
+  {
+    "objectID": "training/index.html",
+    "href": "training/index.html",
+    "title": "Training",
+    "section": "",
+    "text": "Training / Teaching\n\nDES RAP Book\nHDR UK Tests\nQuarto"
+  },
+  {
+    "objectID": "contributions/index.html",
+    "href": "contributions/index.html",
+    "title": "Contributions",
+    "section": "",
+    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
   }
 ]
