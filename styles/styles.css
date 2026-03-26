@@ -1,7 +1,49 @@
+/* ==================== Imports ==================== */
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Montserrat:wght@600&display=swap');
 
-/* Profile sidebar */
+/* ==================== Cards ==================== */
+
+.box {
+  background-color: #271717;
+  border: 0px;
+  border-radius: 8px;
+  padding: 1.2em 1em 0.5em 1em;
+  margin: 1.5em 0;
+  position: relative;
+  box-shadow: 0 2px 8px #0f0909;
+}
+
+.paper {
+  color: #f2d4d3;
+  border-left: .25rem solid #5a302f;
+  padding-left: 2em;
+  padding-right: 4em;
+}
+
+.paper::after {
+  content: "↗";
+  position: absolute;
+  top: 0.4em;
+  right: 0.8em;
+  font-size: 2em;
+  color: #feb39a;
+}
+
+a.paper-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.box .listing-journal {
+  display: block;
+  margin-top: 0.6rem;
+  margin-bottom: 0.7rem;
+}
+
+/* ==================== Profile sidebar ==================== */
 
 .circular {
   border-radius: 50%;
@@ -10,14 +52,7 @@
 
 .profile {
   text-align: center;
-  background-color: #271717;
   color: #feb39a;
-  border: 0px;
-  border-radius: 8px;
-  padding: 1.2em 1em 0.5em 1em;
-  margin: 1.5em 0;
-  position: relative;
-  box-shadow: 0 2px 8px #0f0909;
 }
 
 .btn-social {
@@ -41,7 +76,7 @@
   font-size: 1rem;
 }
 
-/* Fonts and headings */
+/* ==================== Fonts and headings ==================== */
 
 .name-font {
   font-family: 'Playfair Display', serif;
