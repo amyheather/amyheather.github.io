@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "training/index.html",
+    "href": "training/index.html",
+    "title": "Training",
+    "section": "",
+    "text": "Training / Teaching\n\nDES RAP Book\nHDR UK Tests\nQuarto"
+  },
+  {
+    "objectID": "packages/index.html",
+    "href": "packages/index.html",
+    "title": "Packages",
+    "section": "",
+    "text": "lintquarto\nalt-text-linter"
+  },
+  {
+    "objectID": "contributions/index.html",
+    "href": "contributions/index.html",
+    "title": "Contributions",
+    "section": "",
+    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amy Heather",
+    "section": "",
+    "text": "POSTDOCTORAL RESEARCH ASSOCIATE AT THE UNIVERSITY OF EXETER\n  GitHub    LinkedIn    Email \n\n\n\n\nOpen reproducible\nhealth data analysis\nExperienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation. Use tools such as Quarto and Streamlit to create accessible, well-documented outputs. Use packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code."
+  },
+  {
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
+    "title": "Amy Heather",
+    "section": "Recent publications",
+    "text": "Recent publications\n\nOn the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\nJournal of Simulation ˖ 2025"
+  },
+  {
+    "objectID": "index.html#other-links",
+    "href": "index.html#other-links",
+    "title": "Amy Heather",
+    "section": "Other links",
+    "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Samuel\nCausal\nKailo\nIPACS\nHealth economics\nAmbulance\nOncology\nNHS reuse\nReproducibility assessments\n\ngw4 open research award"
+  },
+  {
+    "objectID": "community/index.html",
+    "href": "community/index.html",
+    "title": "Community",
+    "section": "",
+    "text": "NHS model reuse club\nCoding club\nEuHEA July 2022\nRPySoc 2025\nSW25"
+  }
+]

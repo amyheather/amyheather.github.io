@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Montserrat:wght@600&display=swap');
+
+/* Profile sidebar */
+
+.circular {
+  border-radius: 50%;
+  border: 2px solid #5a302f;
+}
+
+.profile {
+  text-align: center;
+  background-color: #271717;
+  color: #feb39a;
+  border: 0px;
+  border-radius: 8px;
+  padding: 1.2em 1em 0.5em 1em;
+  margin: 1.5em 0;
+  position: relative;
+  box-shadow: 0 2px 8px #0f0909;
+}
+
+.btn-social {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  background-color: #382525;
+  color: #feb39a;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem;
+}
+
+.btn-social:hover {
+  filter: brightness(1.1);
+}
+
+.btn-social i {
+  font-size: 1rem;
+}
+
+/* Fonts and headings */
+
+.name-font {
+  font-family: 'Playfair Display', serif;
+}
+
+.name-allcaps {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.12em;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  color: #feb39a;
+}
