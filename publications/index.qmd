@@ -1,3 +1,10 @@
 ---
 title: Publications
+listing:
+  - id: publications
+    contents: publications.yml
+    template: publications.ejs
 ---
+
+::: {#publications}
+:::

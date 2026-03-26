@@ -2,6 +2,10 @@
 format: 
   html:
     page-layout: full
+listing:
+  - id: publications
+    contents: publications/featured.yml
+    template: publications/publications.ejs
 ---
 
 :::: {.columns}
@@ -48,17 +52,8 @@ Experienced in developing and maintaining reproducible analytical workflows in P
 
 ## Recent publications
 
-<a href="https://doi.org/10.1080/17477778.2025.2552177" class="paper-link" target="_blank" rel="noopener">
-
-::: {.box .paper}
-
-On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models
-
-*Journal of Simulation ˖ 2025*
-
+::: {#publications}
 :::
-
-</a>
 
 ## Other links
 

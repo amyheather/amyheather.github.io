@@ -1,0 +1,29 @@
+```{=html}
+
+<div class="pub-list list">
+<% for (const item of items) { %>
+
+  <a href="<%- item.doi %>" class="paper-link" target="_blank" rel="noopener">
+    <div class="box paper" <%= metadataAttrs(item) %>>
+
+      <!-- Title -->
+      <div class="listing-title">
+        <%- item.title %>
+      </div>
+
+      <!-- Journal and date -->
+      <% if (item.journal || item.date) { %>
+        <em class="listing-journal">
+          <% if (item.journal) { %><%- item.journal %><% } %>
+          <% if (item.journal && item.date) { %> ˖ <% } %>
+          <% if (item.date) { %><span class="listing-date"><%- item.date %></span><% } %>
+        </em>
+      <% } %>
+
+    </div>
+  </a>
+
+<% } %>
+</div>
+
+```
