@@ -1,29 +1,38 @@
 ```{=html}
+<div class="pub-list">
 
-<div class="pub-list list">
 <% for (const item of items) { %>
 
-  <a href="<%- item.doi %>" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" <%= metadataAttrs(item) %>>
+  <!-- Year heading -->
+  <h2><%- item.category %></h2>
 
-      <!-- Title -->
-      <div class="listing-title">
-        <%- item.title %>
-      </div>
+  <div class="pub-list list">
+    <% for (const tile of item.tiles) { %>
 
-      <!-- Journal and date -->
-      <% if (item.journal || item.date) { %>
-        <em class="listing-journal">
-          <% if (item.journal) { %><%- item.journal %><% } %>
-          <% if (item.journal && item.date) { %> ˖ <% } %>
-          <% if (item.date) { %><span class="listing-date"><%- item.date %></span><% } %>
-        </em>
-      <% } %>
+      <a href="<%- tile.doi %>" class="paper-link" target="_blank" rel="noopener">
+        <div class="box paper" <%= metadataAttrs(tile) %>>
 
-    </div>
-  </a>
+          <!-- Title -->
+          <div class="listing-title">
+            <%- tile.title %>
+          </div>
+
+          <!-- Journal and date -->
+          <% if (tile.journal || tile.date) { %>
+            <em class="listing-journal">
+              <% if (tile.journal) { %><%- tile.journal %><% } %>
+              <% if (tile.journal && tile.date) { %> ˖ <% } %>
+              <% if (tile.date) { %><span class="listing-date"><%- tile.date %></span><% } %>
+            </em>
+          <% } %>
+
+        </div>
+      </a>
+
+    <% } %>
+  </div>
 
 <% } %>
-</div>
 
+</div>
 ```
