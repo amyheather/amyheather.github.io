@@ -4,50 +4,75 @@ format:
     page-layout: full
 ---
 
-::: {.columns}
+:::: {.columns}
 
-::: {.column}
+::: {.column width=35% .profile}
 
 ![](images/profile.jpeg){.circular}
 
-# Amy Heather
+# [Amy Heather]{.name-font}
 
-Postdoctoral Research Associate at the University of Exeter
+[POSTDOCTORAL RESEARCH ASSOCIATE AT THE UNIVERSITY OF EXETER]{.name-allcaps}
 
-[GitHub](https://github.com/amyheather)
-
-<a href="linkedin">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/)</a>
-
-<a href="email">[![Email](https://img.shields.io/badge/Email-a.heather2@exeter.ac.uk-FFC0CB)](mailto:a.heather2@exeter.ac.uk)</a>
+<a class="btn-social" href="https://github.com/amyheather" target="_blank" rel="noopener">
+  <i class="fa-brands fa-github" aria-hidden="true"></i>
+  GitHub
+</a>
+<a class="btn-social" href="https://www.linkedin.com/in/amyheather/" target="_blank" rel="noopener">
+  <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+  LinkedIn
+</a>
+<a class="btn-social" href="mailto:a.heather2@exeter.ac.uk">
+  <i class="fa fa-envelope" aria-hidden="true"></i>
+  Email
+</a>
 
 :::
 
-::: {.column}
+::: {.column width=5%}
 
-## Open reproducible health data analysis
+:::
 
-I am a Postdoctoral Research Associate at the University of Exeter.
+::: {.column width=60%}
+
+[Open reproducible]{.name-font style="font-size: 3rem; color: ##f9d9d8;"}  
+[health data analysis]{.name-font style="font-size: 3rem; color: #feb39a; font-style: italic;"}
+
+Experienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation. Use tools such as Quarto and Streamlit to create accessible, well-documented outputs. Use packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.
 
 ## Selected Projects
 
-DES RAP Book
-
-lintquarto
-
 :::
 
-:::
+::::
 
 ## Recent publications
 
-...
+> On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models
+>
+> Journal of Simulation ˖ 2025
 
 ## Other links
 
-<a href="orcid">[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)</a>
-<a href="dimensions">[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011030126111.42-yellow)](https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42)</a>
-<a href="scopus">[![Scopus](https://img.shields.io/badge/Scopus-58306926100-e7c6ff)](https://www.scopus.com/authid/detail.uri?authorId=58306926100)</a>
-<a href="exeter_profile">[![Exeter staff profile](https://img.shields.io/badge/Exeter_staff_profile-Amy_Heather-003c3c)](https://experts.exeter.ac.uk/39947-amy-heather)</a>
-<a href="osf">[![Open Science Framework (OSF)](https://img.shields.io/badge/Open_Science_Framework_(OSF)-Amy_Heather-27b8ef)](https://osf.io/wmxtc/)</a>
-<a href="researchgate">[![ResearchGate](https://img.shields.io/badge/ResearchGate-Amy_Heather-e0ecfc)](https://www.researchgate.net/profile/Amy-Heather-2/research)</a>
-<a href="webofscience">[![Web of Science](https://img.shields.io/badge/Web_of_Science-OYD--7450--2025-5e33bf)](https://www.webofscience.com/wos/author/record/OYD-7450-2025)</a>
+<a class="btn-social" href="https://orcid.org/0000-0002-6596-3479" target="_blank" rel="noopener">
+  <i class="fa-brands fa-orcid" aria-hidden="true"></i>
+  ORCID
+</a>
+<a class="btn-social" href="https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42" target="_blank" rel="noopener">
+  Dimensions
+</a>
+<a class="btn-social" href="https://www.scopus.com/authid/detail.uri?authorId=58306926100" target="_blank" rel="noopener">
+  Scopus
+</a>
+<a class="btn-social" href="https://img.shields.io/badge/Exeter_staff_profile-Amy_Heather-003c3c)](https://experts.exeter.ac.uk/39947-amy-heather" target="_blank" rel="noopener">
+  Exeter staff profile
+</a>
+<a class="btn-social" href="https://osf.io/wmxtc/" target="_blank" rel="noopener">
+  Open Science Framework (OSF)
+</a>
+<a class="btn-social" href="https://www.researchgate.net/profile/Amy-Heather-2/research" target="_blank" rel="noopener">
+  ResearchGate
+</a>
+<a class="btn-social" href="https://www.webofscience.com/wos/author/record/OYD-7450-2025" target="_blank" rel="noopener">
+  Web of Science
+</a>
