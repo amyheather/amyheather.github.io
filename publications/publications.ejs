@@ -1,34 +1,57 @@
 ```{=html}
 <div class="pub-list">
 
-<% for (const item of items) { %>
+<%
+  // Detect grouped vs flat
+  const grouped =
+    items.length > 0 &&
+    items[0].tiles &&
+    Array.isArray(items[0].tiles);
 
-  <!-- Year heading -->
-  <h2><%- item.category %></h2>
+  // Reusable renderer for a single tile
+  function renderTile(tile) { %>
+
+    <a href="<%- tile.doi %>" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" <%= metadataAttrs(tile) %>>
+
+        <div class="listing-title">
+          <%- tile.title %>
+        </div>
+
+        <% if (tile.journal || tile.date) { %>
+          <em class="listing-journal">
+            <% if (tile.journal) { %><%- tile.journal %><% } %>
+            <% if (tile.journal && tile.date) { %> ˖ <% } %>
+            <% if (tile.date) { %><span class="listing-date"><%- tile.date %></span><% } %>
+          </em>
+        <% } %>
+
+      </div>
+    </a>
+
+<% } // end renderTile %>
+
+<% if (grouped) { %>
+
+  <% for (const item of items) { %>
+
+    <% if (item.category) { %>
+      <h2><%- item.category %></h2>
+    <% } %>
+
+    <div class="pub-list list">
+      <% for (const tile of item.tiles) { %>
+        <% renderTile(tile); %>
+      <% } %>
+    </div>
+
+  <% } %>
+
+<% } else { %>
 
   <div class="pub-list list">
-    <% for (const tile of item.tiles) { %>
-
-      <a href="<%- tile.doi %>" class="paper-link" target="_blank" rel="noopener">
-        <div class="box paper" <%= metadataAttrs(tile) %>>
-
-          <!-- Title -->
-          <div class="listing-title">
-            <%- tile.title %>
-          </div>
-
-          <!-- Journal and date -->
-          <% if (tile.journal || tile.date) { %>
-            <em class="listing-journal">
-              <% if (tile.journal) { %><%- tile.journal %><% } %>
-              <% if (tile.journal && tile.date) { %> ˖ <% } %>
-              <% if (tile.date) { %><span class="listing-date"><%- tile.date %></span><% } %>
-            </em>
-          <% } %>
-
-        </div>
-      </a>
-
+    <% for (const tile of items) { %>
+      <% renderTile(tile); %>
     <% } %>
   </div>
 
