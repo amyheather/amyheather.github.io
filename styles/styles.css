@@ -91,3 +91,33 @@ h2 {
   font-family: 'Playfair Display', serif;
   color: #feb39a;
 }
+
+/* ==================== Columns ==================== */
+
+/* Make the top-level columns a flex row on larger screens */
+.columns {
+  display: flex;
+  gap: 2rem;  /* adjust spacing between columns */
+  align-items: stretch;  /* make columns equal height */
+}
+
+/* Ensure each column can stretch */
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Let the profile box fill its column height */
+.column .profile.box {
+  height: 100%;
+}
+
+/* Responsive: stack columns on small screens */
+@media (max-width: 768px) {
+  .columns {
+    display: block;
+  }
+  .column {
+    width: 100% !important;  /* override width=35%, 60% from Quarto */
+  }
+}

@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-doi','listing-journal','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-category','listing-tiles',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-doi","listing-journal","listing-date"],
+      searchColumns: ["listing-category","listing-tiles"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -136,7 +136,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../styles/styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -192,12 +192,12 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -206,7 +206,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -219,191 +219,250 @@ window.Quarto = {
 
 
 <div id="listing-publications" class="quarto-listing quarto-listing-container-custom">
+<div class="pub-list">
 
-<div class="pub-list list">
+  
 
-  <a href="https://doi.org/10.1016/j.jval.2025.09.3063" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="0" data-listing-date-sort="1760400000000">
+    
+      <h2 class="anchored">Discrete-event simulation</h2>
+    
 
-      <!-- Title -->
-      <div class="listing-title">
-        Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis
+    <div class="pub-list list">
+      
+        
+
+    <a href="https://doi.org/10.1080/17477778.2025.2552177" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="0">
+
+        <div class="listing-title">
+          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models
+        </div>
+
+        
+          <em class="listing-journal">
+            Journal of Simulation
+             ˖ 
+            <span class="listing-date">2025-09-09</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Value in Health
-           ˖ 
-          <span class="listing-date">Oct 14, 2025</span>
-        </em>
-      
+        
 
-    </div>
-  </a>
+    <a href="https://doi.org/10.36819/SW25.004" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="1">
 
-  <a href="https://doi.org/10.1080/01605682.2025.2554751" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="1" data-listing-date-sort="1757462400000">
+        <div class="listing-title">
+          Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial
+        </div>
 
-      <!-- Title -->
-      <div class="listing-title">
-        Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models
+        
+          <em class="listing-journal">
+            Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)
+             ˖ 
+            <span class="listing-date">03-31-2025</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Journal of the Operational Research Society
-           ˖ 
-          <span class="listing-date">Sep 10, 2025</span>
-        </em>
-      
-
     </div>
-  </a>
 
-  <a href="https://doi.org/10.1080/17477778.2025.2552177" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="2" data-listing-date-sort="1757376000000">
+  
 
-      <!-- Title -->
-      <div class="listing-title">
-        On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models
+    
+      <h2 class="anchored">Generative AI</h2>
+    
+
+    <div class="pub-list list">
+      
+        
+
+    <a href="https://doi.org/10.1080/01605682.2025.2554751" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="2">
+
+        <div class="listing-title">
+          Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models
+        </div>
+
+        
+          <em class="listing-journal">
+            Journal of the Operational Research Society
+             ˖ 
+            <span class="listing-date">09-10-2025</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Journal of Simulation
-           ˖ 
-          <span class="listing-date">Sep 9, 2025</span>
-        </em>
-      
-
     </div>
-  </a>
 
-  <a href="https://doi.org/10.36819/SW25.004" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="3" data-listing-date-sort="1743379200000">
+  
 
-      <!-- Title -->
-      <div class="listing-title">
-        Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial
+    
+      <h2 class="anchored">Health economics</h2>
+    
+
+    <div class="pub-list list">
+      
+        
+
+    <a href="https://doi.org/10.1016/j.jval.2025.09.3063" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="3">
+
+        <div class="listing-title">
+          Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis
+        </div>
+
+        
+          <em class="listing-journal">
+            Value in Health
+             ˖ 
+            <span class="listing-date">2025-10-14</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)
-           ˖ 
-          <span class="listing-date">Mar 31, 2025</span>
-        </em>
-      
+        
 
-    </div>
-  </a>
+    <a href="https://doi.org/10.1177/20552173231178441" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="4">
 
-  <a href="https://doi.org/10.12688/wellcomeopenres.20095.1" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="4" data-listing-date-sort="1699833600000">
+        <div class="listing-title">
+          Multiple sclerosis health-related quality of life utility values from the UK MS register
+        </div>
 
-      <!-- Title -->
-      <div class="listing-title">
-        Kailo: a systemic approach to addressing the social determinants of young people’s mental health and wellbeing at the local level
+        
+          <em class="listing-journal">
+            Multiple Sclerosis Journal— Experimental, Translational and Clinical
+             ˖ 
+            <span class="listing-date">06-02-2023</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Wellcome Open Research
-           ˖ 
-          <span class="listing-date">Nov 13, 2023</span>
-        </em>
-      
+        
 
-    </div>
-  </a>
+    <a href="https://euhea.eu/abstracts_conference_2022.html" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="5">
 
-  <a href="https://doi.org/10.1177/20552173231178441" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="5" data-listing-date-sort="1685664000000">
+        <div class="listing-title">
+          Exploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis
+        </div>
 
-      <!-- Title -->
-      <div class="listing-title">
-        Multiple sclerosis health-related quality of life utility values from the UK MS register
+        
+          <em class="listing-journal">
+            European Health Economics Association (EuHEA) Conference 2022
+             ˖ 
+            <span class="listing-date">07-06-2022</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          Multiple Sclerosis Journal— Experimental, Translational and Clinical
-           ˖ 
-          <span class="listing-date">Jun 2, 2023</span>
-        </em>
-      
+        
 
-    </div>
-  </a>
+    <a href="https://euhea.eu/abstracts_conference_2022.html" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="6">
 
-  <a href="https://euhea.eu/abstracts_conference_2022.html" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="6" data-listing-date-sort="1657065600000">
+        <div class="listing-title">
+          Health state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values
+        </div>
 
-      <!-- Title -->
-      <div class="listing-title">
-        Exploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis
+        
+          <em class="listing-journal">
+            European Health Economics Association (EuHEA) Conference 2022
+             ˖ 
+            <span class="listing-date">07-06-2022</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          European Health Economics Association (EuHEA) Conference 2022
-           ˖ 
-          <span class="listing-date">Jul 6, 2022</span>
-        </em>
-      
-
     </div>
-  </a>
 
-  <a href="https://euhea.eu/abstracts_conference_2022.html" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="7" data-listing-date-sort="1657065600000">
+  
 
-      <!-- Title -->
-      <div class="listing-title">
-        Health state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values
+    
+      <h2 class="anchored">Mental health and wellbeing</h2>
+    
+
+    <div class="pub-list list">
+      
+        
+
+    <a href="https://doi.org/10.12688/wellcomeopenres.20095.1" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="7">
+
+        <div class="listing-title">
+          Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level
+        </div>
+
+        
+          <em class="listing-journal">
+            Wellcome Open Research
+             ˖ 
+            <span class="listing-date">11-13-2023</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          European Health Economics Association (EuHEA) Conference 2022
-           ˖ 
-          <span class="listing-date">Jul 6, 2022</span>
-        </em>
-      
-
     </div>
-  </a>
 
-  <a href="https://doi.org/10.15694/mep.2019.000077.1" class="paper-link" target="_blank" rel="noopener">
-    <div class="box paper" data-index="8" data-listing-date-sort="1554076800000">
+  
 
-      <!-- Title -->
-      <div class="listing-title">
-        The Use of Virtual and Augmented Reality in Anatomy Teaching
+    
+      <h2 class="anchored">Anatomy teaching</h2>
+    
+
+    <div class="pub-list list">
+      
+        
+
+    <a href="https://doi.org/10.15694/mep.2019.000077.1" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper" data-index="8">
+
+        <div class="listing-title">
+          The Use of Virtual and Augmented Reality in Anatomy Teaching
+        </div>
+
+        
+          <em class="listing-journal">
+            MedEdPublish
+             ˖ 
+            <span class="listing-date">04-01-2019</span>
+          </em>
+        
+
       </div>
+    </a>
 
-      <!-- Journal and date -->
       
-        <em class="listing-journal">
-          MedEdPublish
-           ˖ 
-          <span class="listing-date">Apr 1, 2019</span>
-        </em>
-      
-
     </div>
-  </a>
+
+  
 
 </div>
-
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 
