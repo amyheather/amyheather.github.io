@@ -15,34 +15,6 @@
   box-shadow: 0 2px 8px #0f0909;
 }
 
-.paper {
-  color: #f2d4d3;
-  border-left: .25rem solid #5a302f;
-  padding-left: 2em;
-  padding-right: 4em;
-}
-
-.paper::after {
-  content: "↗";
-  position: absolute;
-  top: 0.4em;
-  right: 0.8em;
-  font-size: 2em;
-  color: #feb39a;
-}
-
-a.paper-link {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-}
-
-.box .listing-journal {
-  display: block;
-  margin-top: 0.6rem;
-  margin-bottom: 0.7rem;
-}
-
 /* ==================== Profile sidebar ==================== */
 
 .circular {
@@ -87,6 +59,14 @@ a.paper-link {
   letter-spacing: 0.12em;
 }
 
+.navbar-title {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
 h2 {
   font-family: 'Playfair Display', serif;
   color: #feb39a;
@@ -120,4 +100,70 @@ h2 {
   .column {
     width: 100% !important;  /* override width=35%, 60% from Quarto */
   }
+}
+
+/* ==================== Publications ==================== */
+
+.paper {
+  color: #f2d4d3;
+  border-left: .25rem solid #5a302f;
+  padding-left: 2em;
+  padding-right: 4em;
+}
+
+.paper-arrow::after {
+  content: "↗";
+  position: absolute;
+  top: 0.4em;
+  right: 0.8em;
+  font-size: 2em;
+  color: #feb39a;
+}
+
+a.paper-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.listing-authors {
+  margin-top: 0.6rem;
+  margin-bottom: 0.7rem;
+  font-style: italic;
+}
+
+.listing-authors strong {
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.box .listing-journal {
+  display: block;
+  margin-top: 0.6rem;
+  margin-bottom: 0.7rem;
+}
+
+.paper-buttons {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.btn-pub {
+  display: inline-block;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  background-color: #382525;
+  color: #feb39a;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8rem;
+  border: 1px solid #5a302f;
+}
+
+.btn-pub:hover {
+  filter: brightness(1.3);
 }
