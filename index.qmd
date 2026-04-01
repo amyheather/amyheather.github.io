@@ -5,7 +5,7 @@ format:
 listing:
   - id: publications
     contents: publications/featured.yml
-    template: publications/publications.ejs
+    template: publications/featured.ejs
 ---
 
 :::: {.columns}
@@ -42,7 +42,9 @@ listing:
 [Open reproducible]{.name-font style="font-size: 3rem; color: ##f9d9d8;"}  
 [health data analysis]{.name-font style="font-size: 3rem; color: #feb39a; font-style: italic;"}
 
-Experienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation. Use tools such as Quarto and Streamlit to create accessible, well-documented outputs. Use packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.
+Experienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation.
+
+Skilled in applying tools such as Quarto and Streamlit to create accessible, well-documented outputs, and in packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.
 
 ## Selected Projects
 

@@ -9,11 +9,11 @@
     Array.isArray(items[0].tiles);
 
   // Reusable renderer for a single tile
-    function renderTile(tile) { %>
+  function renderTile(tile) { %>
 
-    <div class="box paper" <%= metadataAttrs(tile) %>>
+    <a href="<%- tile.doi %>" class="paper-link" target="_blank" rel="noopener">
+      <div class="box paper paper-arrow" <%= metadataAttrs(tile) %>>
 
-      <div class="paper-main">
         <div class="listing-title">
           <%- tile.title %>
         </div>
@@ -26,23 +26,8 @@
           </em>
         <% } %>
 
-        <div class="paper-buttons">
-          <% if (tile.doi) { %>
-            <a href="<%- tile.doi %>" class="btn-pub" target="_blank" rel="noopener">Journal</a>
-          <% } %>
-          <% if (tile['preprinturl']) { %>
-            <a href="<%- tile['preprinturl'] %>" class="btn-pub" target="_blank" rel="noopener">Preprint</a>
-          <% } %>
-          <% if (tile['pdf']) { %>
-            <a href="<%- tile['pdf'] %>" class="btn-pub" target="_blank" rel="noopener">PDF</a>
-          <% } %>
-          <% if (tile['githuburl']) { %>
-            <a href="<%- tile['githuburl'] %>" class="btn-pub" target="_blank" rel="noopener">GitHub</a>
-          <% } %>
-        </div>
       </div>
-
-    </div>
+    </a>
 
 <% } // end renderTile %>
 
