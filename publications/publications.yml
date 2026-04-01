@@ -3,50 +3,61 @@
 - category: Discrete-event simulation
   tiles:
     - title: "On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models"
-      doi: https://doi.org/10.1080/17477778.2025.2552177
+      authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne"
       journal: Journal of Simulation
-      date: 2025-09-09
+      date: 09-09-2025
+      doi: https://doi.org/10.1080/17477778.2025.2552177
+      preprint: https://arxiv.org/abs/2501.13137
+      pdf: pdf/heather2025on.pdf
+      github: https://github.com/pythonhealthdatascience/stars_wp1_summary
     - title: "Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial"
-      doi: https://doi.org/10.36819/SW25.004
+      authors: "Thomas Monks, Alison Harper, <strong>Amy Heather</strong>, Andrew Mayne & Navonil Mustafee"
       journal: Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)
       date: 03-31-2025
+      doi: https://doi.org/10.36819/SW25.004
+      pdf: pdf/monks2025building.pdf
+      github: https://github.com/pythonhealthdatascience/intro-open-sim
 
 - category: Generative AI
   tiles:
     - title: "Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models"
-      doi: https://doi.org/10.1080/01605682.2025.2554751
+      authors: "Thomas Monks, Alison Harper & <strong>Amy Heather</strong>"
       journal: Journal of the Operational Research Society
+      doi: https://doi.org/10.1080/01605682.2025.2554751
       date: 09-10-2025
+      pdf: pdf/monks2025unlocking.pdf
+      github: https://github.com/pythonhealthdatascience/llm_simpy
 
 - category: Health economics
   tiles:
     - title: Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis
-      doi: https://doi.org/10.1016/j.jval.2025.09.3063
+      authors: "Elizabeth Goodwin, <strong>Amy Heather</strong>, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton & Annie Hawton"
       journal: Value in Health
-      date: 2025-10-14
+      date: 10-14-2025
+      doi: https://doi.org/10.1016/j.jval.2025.09.3063
+      pdf: pdf/goodwin2025comparative.png
+      github: https://github.com/exeterhems/hums_responsiveness
     - title: "Multiple sclerosis health-related quality of life utility values from the UK MS register"
-      doi: https://doi.org/10.1177/20552173231178441
+      authors: "<strong>Amy Heather</strong>, Elizabeth Goodwin, Colin Green, Nia Morrish, Obi Ukoumunne, Rod Middleton & Annie Hawton"
       journal: Multiple Sclerosis Journal— Experimental, Translational and Clinical
       date: 06-02-2023
-    - title: Exploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis
-      doi: https://euhea.eu/abstracts_conference_2022.html
-      journal: European Health Economics Association (EuHEA) Conference 2022
-      date: 07-06-2022
-    - title: "Health state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values"
-      doi: https://euhea.eu/abstracts_conference_2022.html
-      journal: European Health Economics Association (EuHEA) Conference 2022
-      date: 07-06-2022
+      doi: https://doi.org/10.1177/20552173231178441
+      pdf: pdf/heather2023multiple.pdf
 
 - category: Mental health and wellbeing
   tiles:
     - title: "Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level"
-      doi: https://doi.org/10.12688/wellcomeopenres.20095.1
+      authors: "Tim Hobbs, Ediane Santana De Lima, Dickon Bevington, Cristina Preece, Kate Allen, Pia Barna, Vashti Berry, Thomas Booker, Karuna Davies, George Davis, Jessica Deighton, Leanne Freeman, Peter Fuggle, Ellen Goddard, Tamsin Greene Barker, Julie Harris, <strong>Amy Heather</strong>, Mary-France Jardiel, Krishna Joshi, Megan Keenan, Laura Kennedy, Tamanna Malhotra, Anna March, Steve Pilling, Martin Pitt, Katie Potter, Nirandeep Rehill, Jenny Shand, Rachel Surtees & Peter Fonagy"
       journal: Wellcome Open Research
       date: 11-13-2023
+      doi: https://doi.org/10.12688/wellcomeopenres.20095.1
+      pdf: pdf/hobbs2023kailo.pdf
 
 - category: Anatomy teaching
   tiles:
   - title: The Use of Virtual and Augmented Reality in Anatomy Teaching
-    doi: https://doi.org/10.15694/mep.2019.000077.1
+    authors: "<strong>Amy Heather</strong>, Tudor Chinnah & Vikram Devaraj"
     journal: MedEdPublish
     date: 04-01-2019
+    doi: https://doi.org/10.15694/mep.2019.000077.1
+    pdf: pdf/heather2019the.pdf

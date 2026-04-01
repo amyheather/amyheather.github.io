@@ -18,6 +18,12 @@
           <%- tile.title %>
         </div>
 
+        <% if (tile.authors) { %>
+          <div class="listing-authors">
+            <%= tile.authors %>
+          </div>
+        <% } %>
+
         <% if (tile.journal || tile.date) { %>
           <em class="listing-journal">
             <% if (tile.journal) { %><%- tile.journal %><% } %>
@@ -28,16 +34,16 @@
 
         <div class="paper-buttons">
           <% if (tile.doi) { %>
-            <a href="<%- tile.doi %>" class="btn-pub" target="_blank" rel="noopener">Journal</a>
+            <a href="<%- tile.doi %>" class="btn-pub" target="_blank" rel="noopener">DOI</a>
           <% } %>
-          <% if (tile['preprinturl']) { %>
-            <a href="<%- tile['preprinturl'] %>" class="btn-pub" target="_blank" rel="noopener">Preprint</a>
+          <% if (tile['preprint']) { %>
+            <a href="<%- tile['preprint'] %>" class="btn-pub" target="_blank" rel="noopener">Preprint</a>
           <% } %>
           <% if (tile['pdf']) { %>
             <a href="<%- tile['pdf'] %>" class="btn-pub" target="_blank" rel="noopener">PDF</a>
           <% } %>
-          <% if (tile['githuburl']) { %>
-            <a href="<%- tile['githuburl'] %>" class="btn-pub" target="_blank" rel="noopener">GitHub</a>
+          <% if (tile['github']) { %>
+            <a href="<%- tile['github'] %>" class="btn-pub" target="_blank" rel="noopener">GitHub</a>
           <% } %>
         </div>
       </div>

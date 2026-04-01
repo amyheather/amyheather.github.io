@@ -126,6 +126,18 @@ a.paper-link {
   color: inherit;
 }
 
+.listing-authors {
+  margin-top: 0.6rem;
+  margin-bottom: 0.7rem;
+  font-style: italic;
+}
+
+.listing-authors strong {
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+
 .box .listing-journal {
   display: block;
   margin-top: 0.6rem;
@@ -133,7 +145,7 @@ a.paper-link {
 }
 
 .paper-buttons {
-  margin-top: 0.4rem;
+  margin-top: 0.8rem;
   margin-bottom: 0.8rem;
   display: flex;
   flex-wrap: wrap;
