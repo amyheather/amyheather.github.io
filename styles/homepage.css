@@ -1,0 +1,23 @@
+/* ==================== Fonts and headings ==================== */
+
+.name-font {
+  font-family: 'Playfair Display', serif;
+}
+
+.name-allcaps {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.12em;
+}
+
+.navbar-title {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+h2 {
+  /*font-family: 'Playfair Display', serif;*/
+  color: #feb39a;
+}
