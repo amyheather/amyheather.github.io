@@ -6,7 +6,6 @@ website:
   navbar:
     left:
       - projects/index.qmd
-      - training/index.qmd
       - contributions/index.qmd
       - publications/index.qmd
       - packages/index.qmd

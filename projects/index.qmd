@@ -1,14 +1,9 @@
 ---
 title: Projects
+listing:
+  contents: /*/index.qmd
+  type: grid
+  grid-columns: 2
+  fields: [title, subtitle, image]
+  image-height: "100"
 ---
-
-* Samuel
-* Causal
-* Kailo
-* IPACS
-* Health economics
-* Ambulance
-* Oncology
-* NHS reuse
-* Reproducibility assessments
-    * gw4 open research award
