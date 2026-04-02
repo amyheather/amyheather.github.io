@@ -1,0 +1,5 @@
+---
+title: DES RAP Book
+subtitle: "Self-paced training resource that teaches you how to design, implement, and share discrete-event simulation (DES) models in Python and R as part of a reproducible analytical pipeline. It combines a step-by-step guide with complete example repositories that you can adapt for your own projects."
+image: homepage.png
+---

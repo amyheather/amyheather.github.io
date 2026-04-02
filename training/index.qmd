@@ -1,9 +1,8 @@
 ---
 title: Training
+listing:
+  contents: /*/index.qmd
+  type: grid
+  grid-columns: 1
+  fields: [title, subtitle, image]
 ---
-
-Training / Teaching
-
-* DES RAP Book
-* HDR UK Tests
-* Quarto
