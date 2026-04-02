@@ -1,10 +1,27 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/publications/index.html",
     "items": []
   },
   {
-    "listing": "/publications/index.html",
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/ambulancedes/index.html",
+      "/projects/causal/index.html",
+      "/projects/desrapbook/index.html",
+      "/projects/desreproductions/index.html",
+      "/projects/healtheconomics/index.html",
+      "/projects/ipacs/index.html",
+      "/projects/kailo/index.html",
+      "/projects/nhsreuse/index.html",
+      "/projects/oncology/index.html",
+      "/projects/beginnerquarto/index.html",
+      "/projects/samuel/index.html",
+      "/projects/testing/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
     "items": []
   }
 ]

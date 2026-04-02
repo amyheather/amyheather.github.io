@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "training/index.html",
-    "href": "training/index.html",
-    "title": "Training",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Training / Teaching\n\nDES RAP Book\nHDR UK Tests\nQuarto"
+    "text": "Discrete-event simulation\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            09-09-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n            Preprint\n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial\n        \n\n        \n          \n            Thomas Monks, Alison Harper, Amy Heather, Andrew Mayne & Navonil Mustafee\n          \n        \n\n        \n          \n            Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)\n             ˖ \n            03-31-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Generative AI\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models\n        \n\n        \n          \n            Thomas Monks, Alison Harper & Amy Heather\n          \n        \n\n        \n          \n            Journal of the Operational Research Society\n             ˖ \n            09-10-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Health economics\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis\n        \n\n        \n          \n            Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Value in Health\n             ˖ \n            10-14-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Multiple sclerosis health-related quality of life utility values from the UK MS register\n        \n\n        \n          \n            Amy Heather, Elizabeth Goodwin, Colin Green, Nia Morrish, Obi Ukoumunne, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Multiple Sclerosis Journal— Experimental, Translational and Clinical\n             ˖ \n            06-02-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Mental health and wellbeing\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level\n        \n\n        \n          \n            Tim Hobbs, Ediane Santana De Lima, Dickon Bevington, Cristina Preece, Kate Allen, Pia Barna, Vashti Berry, Thomas Booker, Karuna Davies, George Davis, Jessica Deighton, Leanne Freeman, Peter Fuggle, Ellen Goddard, Tamsin Greene Barker, Julie Harris, Amy Heather, Mary-France Jardiel, Krishna Joshi, Megan Keenan, Laura Kennedy, Tamanna Malhotra, Anna March, Steve Pilling, Martin Pitt, Katie Potter, Nirandeep Rehill, Jenny Shand, Rachel Surtees & Peter Fonagy\n          \n        \n\n        \n          \n            Wellcome Open Research\n             ˖ \n            11-13-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Anatomy teaching\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          The Use of Virtual and Augmented Reality in Anatomy Teaching\n        \n\n        \n          \n            Amy Heather, Tudor Chinnah & Vikram Devaraj\n          \n        \n\n        \n          \n            MedEdPublish\n             ˖ \n            04-01-2019\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n\nNo matching items"
   },
   {
-    "objectID": "contributions/index.html",
-    "href": "contributions/index.html",
-    "title": "Contributions",
+    "objectID": "community/index.html",
+    "href": "community/index.html",
+    "title": "Community",
     "section": "",
-    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
+    "text": "NHS model reuse club\nCoding club\nEuHEA July 2022\nRPySoc 2025\nSW25"
+  },
+  {
+    "objectID": "packages/index.html",
+    "href": "packages/index.html",
+    "title": "Packages",
+    "section": "",
+    "text": "lintquarto\nalt-text-linter"
+  },
+  {
+    "objectID": "projects/desreproductions/index.html",
+    "href": "projects/desreproductions/index.html",
+    "title": "DES reproductions",
+    "section": "",
+    "text": "gw4 award"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Ambulance DES\n\n\nWith South Western Ambulance Service NHS Foundation Trust (SWASFT).\n\n\n\n\n\n\n\n\n\n\nCausal\n\n\n\n\n\n\n\n\n\n\n\n\nDES RAP Book\n\n\nSelf-paced training resource that teaches you how to design, implement, and share discrete-event simulation (DES) models in Python and R as part of a reproducible analytical pipeline. It combines a step-by-step guide with complete example repositories that you can adapt for your own projects.\n\n\n\n\n\n\n\n\n\n\nDES reproductions\n\n\n\n\n\n\n\n\n\n\nHealth economics\n\n\n\n\n\n\n\n\n\n\nIPACS\n\n\n\n\n\n\n\n\n\n\nKailo\n\n\n\n\n\n\n\n\n\n\nNHS model reuse study\n\n\n\n\n\n\n\n\n\n\nOncology\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto for research\n\n\nBeginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.\n\n\n\n\n\n\n\n\n\n\nSAMueL\n\n\n\n\n\n\n\n\n\n\n\n\nTesting\n\n\nIntroductory materials on testing in Python and R\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -35,31 +56,10 @@
     "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "contributions/index.html",
+    "href": "contributions/index.html",
+    "title": "Contributions",
     "section": "",
-    "text": "Samuel\nCausal\nKailo\nIPACS\nHealth economics\nAmbulance\nOncology\nNHS reuse\nReproducibility assessments\n\ngw4 open research award"
-  },
-  {
-    "objectID": "packages/index.html",
-    "href": "packages/index.html",
-    "title": "Packages",
-    "section": "",
-    "text": "lintquarto\nalt-text-linter"
-  },
-  {
-    "objectID": "community/index.html",
-    "href": "community/index.html",
-    "title": "Community",
-    "section": "",
-    "text": "NHS model reuse club\nCoding club\nEuHEA July 2022\nRPySoc 2025\nSW25"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Discrete-event simulation\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            09-09-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n            Preprint\n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial\n        \n\n        \n          \n            Thomas Monks, Alison Harper, Amy Heather, Andrew Mayne & Navonil Mustafee\n          \n        \n\n        \n          \n            Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)\n             ˖ \n            03-31-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Generative AI\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models\n        \n\n        \n          \n            Thomas Monks, Alison Harper & Amy Heather\n          \n        \n\n        \n          \n            Journal of the Operational Research Society\n             ˖ \n            09-10-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Health economics\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis\n        \n\n        \n          \n            Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Value in Health\n             ˖ \n            10-14-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Multiple sclerosis health-related quality of life utility values from the UK MS register\n        \n\n        \n          \n            Amy Heather, Elizabeth Goodwin, Colin Green, Nia Morrish, Obi Ukoumunne, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Multiple Sclerosis Journal— Experimental, Translational and Clinical\n             ˖ \n            06-02-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Mental health and wellbeing\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level\n        \n\n        \n          \n            Tim Hobbs, Ediane Santana De Lima, Dickon Bevington, Cristina Preece, Kate Allen, Pia Barna, Vashti Berry, Thomas Booker, Karuna Davies, George Davis, Jessica Deighton, Leanne Freeman, Peter Fuggle, Ellen Goddard, Tamsin Greene Barker, Julie Harris, Amy Heather, Mary-France Jardiel, Krishna Joshi, Megan Keenan, Laura Kennedy, Tamanna Malhotra, Anna March, Steve Pilling, Martin Pitt, Katie Potter, Nirandeep Rehill, Jenny Shand, Rachel Surtees & Peter Fonagy\n          \n        \n\n        \n          \n            Wellcome Open Research\n             ˖ \n            11-13-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Anatomy teaching\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          The Use of Virtual and Augmented Reality in Anatomy Teaching\n        \n\n        \n          \n            Amy Heather, Tudor Chinnah & Vikram Devaraj\n          \n        \n\n        \n          \n            MedEdPublish\n             ˖ \n            04-01-2019\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n\nNo matching items"
+    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
   }
 ]
