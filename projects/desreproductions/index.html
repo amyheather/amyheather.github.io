@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-c1a9a172d96cdabb40567de3e22b5b4e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-e73e2615ddfffa6d114e3e3e73e5f92d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,6 +138,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">DES reproductions</h1>
+<p class="subtitle lead">Assessing the computational reproducibility of eight published healthcare DES models implemented in Python or R.</p>
 </div>
 
 
@@ -154,9 +155,130 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>gw4 award</p>
+<p>I worked on this from <strong>May 2024 to January 2025</strong>, with supervision and guidance <strong>Tom Monks</strong>. I also shared progress with <strong>Alison Harper</strong>, <strong>Nav Mustafee</strong>, and <strong>Andy Mayne</strong>.</p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>A <a href="https://doi.org/10.5281/zenodo.12179845">detailed study protocol</a> was first developed, informed by existing reproducibility studies and pilot work. The workflow for assessing each study is summarised in the figure below.</p>
+<p><img src="stars_wp1_workflow.png" class="img-fluid" alt="Study methodology"></p>
+<p>The eight models were selected to ensure diversity across a range of factors including the health focus (e.g., healthcare condition, specific system), geographical context, and model complexity</p>
+<p>Reproducing results required up to 28 hours of troubleshooting per model. Four models were judged to be fully reproduced, while four were partially reproduced - between 12.5% and 94.1% of reported outcomes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="article_times.png" class="img-fluid figure-img"></p>
+<figcaption>Count, proportion, and time to reproduce items within the scope of each study. Inspired by a figure in Krafczyk et al.&nbsp;(<a href="https://doi.org/10.1098/rsta.2020.0069">2021</a>).</figcaption>
+</figure>
+</div>
+<p>Based on the barriers and facilitators observed during these reproductions, we developed the <strong>STARS reproducibility recommendations</strong>. These are presented in the figures below, divided into categories: recommendations that specifically support reproducibility, and those that were more relevant to troubleshooting models (and therefore also to reuse).</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="reproduction_wheel.png" class="img-fluid figure-img"></p>
+<figcaption>Recommendations to support reproducibility. Below each recommendation, a count of studies that fully met it is provided. The total may fall below eight if the criteria were not applicable to a given study (e.g., If they didn’t perform scenario analysis, or only provided one version of the code).</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="troubleshooting_wheel.png" class="img-fluid figure-img"></p>
+<figcaption>Recommendations to support troubleshooting and reuse. Below each recommendation, a count of studies that fully met it is provided. The total may fall below eight if the criteria were not applicable to a given study (e.g., If they didn’t have a web application, or didn’t have scenarios to vary parameters). Some recommendations were marked as “N/A” where it was not felt appropriate or feasible to count/assess their inclusion</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="websites-and-github-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="websites-and-github-repositories">Websites and GitHub repositories</h2>
+<p>We have described this work in a <a href="https://doi.org/10.1080/17477778.2025.2552177">publication in the Journal of Simulation</a>.</p>
+<p>The work is also documented in a dedicated <a href="https://pythonhealthdatascience.github.io/stars_wp1_summary/">Quarto summary website</a>, which provides more fine-grained detail on the reproductions.</p>
+<div class="iframe-header">
+  <span>Website preview:</span>
+  <a href="https://pythonhealthdatascience.github.io/stars_wp1_summary/pages/reproduction.html" target="_blank" rel="noopener">
+    View full website in new tab
+  </a>
+</div>
+<iframe class="iframe-preview" width="100%" height="500" src="https://pythonhealthdatascience.github.io/stars_wp1_summary/pages/reproduction.html" title="Computational Reproducibility Assessments: Summary">
+</iframe>
+<br>
+<p>Each of the eight DES models has its own research compendium-style GitHub repository, with a corresponding website and archival record, as linked in the table below. Each repository was created from a <a href="https://github.com/pythonhealthdatascience/stars_reproduction_template">template</a> which we developed during pilot work. In pilot work, an example model from colleagues was used to test and refine the reproducibility protocol, resulting in the repository <a href="https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020">stars-reproduce-allen-2020</a>.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Reproduction study</th>
+<th>Website</th>
+<th>GitHub</th>
+<th>Zenodo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Shoaib and Ramamohan 2022</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-shoaib-2022/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-shoaib-2022">stars-reproduce-shoaib-2022</a></td>
+<td><a href="https://doi.org/10.1177/00375497211030931">10.1177/00375497211030931</a></td>
+</tr>
+<tr class="even">
+<td>Huang et al.&nbsp;2019</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-huang-2019/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-huang-2019">stars-reproduce-huang-2019</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.12657280">10.5281/zenodo.12657280</a></td>
+</tr>
+<tr class="odd">
+<td>Lim et al.&nbsp;2020</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-lim-2020/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-lim-2020">stars-reproduce-lim-2020</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.12795365">10.5281/zenodo.12795365</a></td>
+</tr>
+<tr class="even">
+<td>Kim et al.&nbsp;2021</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-kim-2021/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-kim-2021">stars-reproduce-kim-2021</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.13121136">10.5281/zenodo.13121136</a></td>
+</tr>
+<tr class="odd">
+<td>Anagnostou et al.&nbsp;2022</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-anagnostou-2022/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-anagnostou-2022">stars-reproduce-anagnostou-2022</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.13306159">10.5281/zenodo.13306159</a></td>
+</tr>
+<tr class="even">
+<td>Johnson et al.&nbsp;2021</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-johnson-2021/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-johnson-2021">stars-reproduce-johnson-2021</a></td>
+<td><a href="https://zenodo.org/doi/10.5281/zenodo.13832333">10.5281/zenodo.13832333</a></td>
+</tr>
+<tr class="odd">
+<td>Hernandez et al.&nbsp;2015</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-hernandez-2015/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-hernandez-2015">stars-reproduce-hernandez-2015</a></td>
+<td><a href="https://zenodo.org/doi/10.5281/zenodo.13832260">10.5281/zenodo.13832260</a></td>
+</tr>
+<tr class="even">
+<td>Wood et al.&nbsp;2021</td>
+<td><a href="https://pythonhealthdatascience.github.io/stars-reproduce-wood-2021/">Website</a></td>
+<td><a href="https://github.com/pythonhealthdatascience/stars-reproduce-wood-2021">stars-reproduce-wood-2021</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.13881986">10.5281/zenodo.13881986</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="gw4-open-research-prize---improving-quality" class="level2">
+<h2 class="anchored" data-anchor-id="gw4-open-research-prize---improving-quality">GW4 Open Research Prize - Improving Quality</h2>
+<p>This research was shortlisted for the “Improving Quality” prize, which is “for those able to demonstrate that the quality of their research has been enhanced through the adoption of open research practices in their work”. You can find out more about the prize and the other <a href="https://gw4.ac.uk/news/gw4-open-research-prize-2025-winners-announced/">shortlisted entries and winners here</a>.</p>
+<p>Amy Heather presented this work at the GW4 Open Research Prize awards event. The slides were created using Quarto: see the <a href="https://pythonhealthdatascience.github.io/gw4_prize_presentation/">slides</a> and accompanying <a href="https://github.com/pythonhealthdatascience/gw4_prize_presentation">slides GitHub repository</a>. A recording of the presentation is available:</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/4ti4Fent07s?si=UAIZRvf9gl2K-cKO" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="stars" class="level2">
+<h2 class="anchored" data-anchor-id="stars">STARS</h2>
+<p>This work was completed as part of the project STARS: Sharing Tools and Artefacts for Reproducible &amp; Reusable Simulations in healthcare. I have created a website where you can find out more about this project: <a href="https://pythonhealthdatascience.github.io/stars/" class="uri">https://pythonhealthdatascience.github.io/stars/</a>.</p>
+<iframe width="100%" height="500" src="https://pythonhealthdatascience.github.io/stars/" title="STARS project website">
+</iframe>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

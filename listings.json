@@ -4,6 +4,10 @@
     "items": []
   },
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/projects/index.html",
     "items": [
       "/projects/ambulancedes/index.html",
@@ -19,9 +23,5 @@
       "/projects/samuel/index.html",
       "/projects/testing/index.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   }
 ]
