@@ -17,6 +17,13 @@
       doi: https://doi.org/10.36819/SW25.004
       pdf: pdf/monks2025building.pdf
       github: https://github.com/pythonhealthdatascience/intro-open-sim
+    - title: "Protocol for assessing the computational reproducibility of discrete-event simulation models on STARS"
+      authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne"
+      journal: Zenodo
+      date: 20-06-2024
+      doi: https://doi.org/10.5281/zenodo.12179845
+      pdf: pdf/heather2024protocol.pdf
+      github: https://github.com/pythonhealthdatascience/stars_reproduction_template
 
 - category: Generative AI
   tiles:
