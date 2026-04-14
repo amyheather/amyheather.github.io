@@ -3,3 +3,19 @@ title: Quarto for research
 subtitle: Beginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.
 image: homepage.png
 ---
+
+<br>
+
+I am delivering an in-person workshop for the **Department of Health and Community Sciences** at the **University of Exeter** on **1 June 2026 (1–4 pm)**. The session introduces researchers to **Quarto**, **GitHub**, and **Markdown** as tools for sharing and organising research more openly and reproducibly.
+
+All materials are being developed openly and will remain available online:
+
+* Workshop site: <https://pythonhealthdatascience.github.io/quarto-tutorial/>
+* Workshop site GitHub: <https://github.com/pythonhealthdatascience/quarto-tutorial/>
+* Template/Codespace used in workshop: <https://github.com/pythonhealthdatascience/quarto-template>
+
+The aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs.
+
+<br>
+
+[![Screenshot of the workshop site hompage](homepage.png)](https://pythonhealthdatascience.github.io/quarto-tutorial/){target="_blank"}
