@@ -2,5 +2,30 @@
 title: Packages
 ---
 
-* lintquarto
-* alt-text-linter
+I often structure research projects as self-contained packages. I have also contributed to several packages. In addition to those, I also own and maintain a few ,more general tools that are independent of any single research project.
+
+## lintquarto
+
+Python package for running linters, static type checkers and code analysis tools on python code in quarto (.qmd) files.
+
+Currently undergoing review with PyOpenSci.
+
+GitHub: <https://github.com/lintquarto/lintquarto>
+
+Documentation:
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://lintquarto.github.io/lintquarto/"
+  title="vidigi">
+</iframe>
+
+## alt-text-linter
+
+GitHub action for linting alternative (alt) text in quarto markdown (.qmd) files.
+
+*In progress! Early in development*
+
+GitHub: <https://github.com/lintquarto/alt-text-linter>
