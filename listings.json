@@ -11,7 +11,8 @@
     "listing": "/projects/index.html",
     "items": [
       "/projects/ambulancedes/index.html",
-      "/projects/causal/index.html",
+      "/projects/ambulanceforecast/index.html",
+      "/projects/birthoutcomes/index.html",
       "/projects/desrapbook/index.html",
       "/projects/desreproductions/index.html",
       "/projects/healtheconomics/index.html",
@@ -20,7 +21,7 @@
       "/projects/nhsreuse/index.html",
       "/projects/oncology/index.html",
       "/projects/beginnerquarto/index.html",
-      "/projects/samuel/index.html",
+      "/projects/samuel2/index.html",
       "/projects/testing/index.html"
     ]
   }
