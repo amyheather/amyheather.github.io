@@ -33,23 +33,13 @@ We have described this work in a [publication in the Journal of Simulation](http
 
 The work is also documented in a dedicated [Quarto summary website](https://pythonhealthdatascience.github.io/stars_wp1_summary/), which provides more fine-grained detail on the reproductions.
 
-```{=html}
-<div class="iframe-header">
-  <span>Website preview:</span>
-  <a href="https://pythonhealthdatascience.github.io/stars_wp1_summary/pages/reproduction.html"
-      target="_blank" rel="noopener">
-    View full website in new tab
-  </a>
-</div>
 <iframe
-  class="iframe-preview"
+  class="auto-preview"
   width="100%"
   height="500"
   src="https://pythonhealthdatascience.github.io/stars_wp1_summary/pages/reproduction.html"
   title="Computational Reproducibility Assessments: Summary">
 </iframe>
-<br>
-```
 
 Each of the eight DES models has its own research compendium-style GitHub repository, with a corresponding website and archival record, as linked in the table below. Each repository was created from a [template](https://github.com/pythonhealthdatascience/stars_reproduction_template) which we developed during pilot work. In pilot work, an example model from colleagues was used to test and refine the reproducibility protocol, resulting in the repository [stars-reproduce-allen-2020](https://github.com/pythonhealthdatascience/stars-reproduce-allen-2020).
 
@@ -76,4 +66,10 @@ Amy Heather presented this work at the GW4 Open Research Prize awards event. The
 
 This work was completed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: <https://pythonhealthdatascience.github.io/stars/>.
 
-<iframe width="100%" height="500" src="https://pythonhealthdatascience.github.io/stars/" title="STARS project website"></iframe>
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="500"
+  src="https://pythonhealthdatascience.github.io/stars/"
+  title="STARS project website">
+</iframe>
