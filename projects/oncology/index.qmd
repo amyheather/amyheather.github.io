@@ -11,7 +11,7 @@ This is a model associated with technology appraisals from the National Institut
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://pythonhealthdatascience.github.io/stars-eom-rcc/"
   title="EOM-RCC website">
 </iframe>
@@ -19,7 +19,7 @@ This is a model associated with technology appraisals from the National Institut
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://amyheather.shinyapps.io/shinyapp/"
   title="EOM-RCC pilot web app">
 </iframe>

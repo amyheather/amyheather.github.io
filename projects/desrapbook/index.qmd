@@ -13,7 +13,7 @@ The book is available at: <https://pythonhealthdatascience.github.io/des_rap_boo
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://pythonhealthdatascience.github.io/des_rap_book/"
   title="Reproducible Discrete-Event Simulation in Python and R">
 </iframe>
@@ -34,7 +34,7 @@ This book was developed as part of the project STARS: Sharing Tools and Artefact
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://pythonhealthdatascience.github.io/stars/"
   title="STARS project website">
 </iframe>

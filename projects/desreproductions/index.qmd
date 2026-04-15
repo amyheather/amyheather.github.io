@@ -36,7 +36,7 @@ The work is also documented in a dedicated [Quarto summary website](https://pyth
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://pythonhealthdatascience.github.io/stars_wp1_summary/pages/reproduction.html"
   title="Computational Reproducibility Assessments: Summary">
 </iframe>
@@ -69,7 +69,7 @@ This work was completed as part of the project STARS: Sharing Tools and Artefact
 <iframe
   class="auto-preview"
   width="100%"
-  height="500"
+  height="800"
   src="https://pythonhealthdatascience.github.io/stars/"
   title="STARS project website">
 </iframe>
