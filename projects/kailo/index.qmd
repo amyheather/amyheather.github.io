@@ -1,3 +1,46 @@
 ---
 title: Kailo
+subtitle: "Delivering #BeeWell (a school-based wellbeing survey) with schools in Northern Devon"
+image: kailo_area1.png
 ---
+
+<a href="https://kailo.community/beewell/">
+  <img 
+    align="right"
+    src="https://raw.githubusercontent.com/amyheather/amyheather/refs/heads/main/images/beewell_kailo_colour_logo.png" 
+    alt="Kailo #BeeWell" 
+    height="200"
+    style="background-color: white; padding: 10px; border-radius: 6px; margin-left: 20px; margin-bottom: 10px;"
+  >
+</a>
+
+I worked on Kailo from **October 2022 to April 2024**. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools.
+
+The video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
+
+{{< video https://youtu.be/jmYH7F2Bd4Q?si=iJtA2MdcdX7MCEoC >}}
+
+We planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.
+
+* GitHub repository: [https://github.com/kailo-beewell](https://github.com/kailo-beewell)
+* Package used to produce dashboards: [kailo-beewell-dashboard](https://github.com/kailo-beewell/kailo_beewell_dashboard_package).
+* Streamlit dashboards:
+    * Standard survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-standard-school-dashboard.streamlit.app/)
+    * Symbol survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-symbol-school-dashboard.streamlit.app/)
+    * Area-level dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-public-dashboard.streamlit.app/)
+
+I published a pre-registration on the Open Science Framework ([10.17605/OSF.IO/85BVN](https://doi.org/10.17605/OSF.IO/85BVN)) describing the the analysis plans for the dashboards, with two components describing each of the standard and symbol surveys.
+
+My time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.
+
+Exemplar screenshots from dashboards:
+
+<p align="middle">
+  <img src="kailo_area1.png" width="49%" />
+  <img src="kailo_area2.png" width="49%" /> 
+</p>
+
+<p align="middle">
+  <img src="kailo_standard1.png" width="49%" />
+  <img src="kailo_standard2.png" width="49%" /> 
+</p>

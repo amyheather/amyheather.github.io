@@ -1,3 +1,25 @@
 ---
 title: Oncology
+subtitle: "Modifications to the Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)"
+image: webapp.png
 ---
+
+From **July 2024 to October 2024** I worked on this model in conversation with **Dawn Lee** and **Darren Burns**.
+
+This is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a [clear README](https://github.com/pythonhealthdatascience/stars-eom-rcc), [website hosting detailed documentation](https://pythonhealthdatascience.github.io/stars-eom-rcc/), and a [pilot web application for exploring treatment sequences](https://amyheather.shinyapps.io/shinyapp/).
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="500"
+  src="https://pythonhealthdatascience.github.io/stars-eom-rcc/"
+  title="EOM-RCC website">
+</iframe>
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="500"
+  src="https://amyheather.shinyapps.io/shinyapp/"
+  title="EOM-RCC pilot web app">
+</iframe>

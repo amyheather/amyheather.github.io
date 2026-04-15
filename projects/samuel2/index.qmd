@@ -1,0 +1,19 @@
+---
+title: SAMueL2 - Stroke Audit Machine Learning
+subtitle: Data cleaning and demographics
+image: samuel_maps.png
+---
+
+I worked on a few tasks for the SAMueL2 project in **Spring 2023**, supervised by **Mike Allen**. These were:
+
+* Data cleaning and descriptive analysis of SSNAP data ([repository](https://github.com/samuel-book/samuel_2_data_prep))
+* Demographics of emergency stroke unit catchment areas ([repository](https://github.com/samuel-book/stroke_unit_demographics), [website](https://samuel-book.github.io/stroke_unit_demographics/03_create_maps.html))
+
+<p align="middle">
+  <a href="https://github.com/samuel-book/samuel_2_data_prep">
+  <img src="samuel_cleaning.png" width="49%" />
+  </a>
+  <a href="https://github.com/samuel-book/stroke_unit_demographics">
+  <img src="samuel_maps.png" width="49%" />
+  </a>
+</p>

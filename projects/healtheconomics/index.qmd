@@ -1,3 +1,14 @@
 ---
 title: Health economics
+subtitle: Estimating health-related quality of life utility values in multiple sclerosis
+image: 2023fig1.jpg
 ---
+
+I worked in the University of Exeter Health Economics group in **Spring and Summer 2022** - during and after my BSc degree. I was supervised by **Annie Hawton** and **Liz Goodwin**.
+
+Publications:
+
+* A Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. <https://doi.org/10.1177/20552173231178441>.
+* E Goodwin; A Heather; N Morrish; J Freeman; K Boddy; S Thomas; J Chataway; R Middleton; A Hawton. 2025. Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis. Value in Health. <https://doi.org/10.1016/j.jval.2025.09.3063>.
+
+[GitHub organisation](https://github.com/exeterhems)

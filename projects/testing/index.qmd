@@ -1,5 +1,17 @@
 ---
-title: "Testing"
+title: "Testing in Research Workflows"
 subtitle: Introductory materials on testing in Python and R
 image: homepage.png
 ---
+
+I developed these materials in collaboration with **HDR UK** between **January and April 2026** as part of the STARS project.
+
+I produced a quarto site and accompanying videos (*in development*) for the HDR UK Futures training platform to introduce researchers to testing in research workflows.
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="500"
+  src="https://pythonhealthdatascience.github.io/stars-testing-intro/"
+  title="STARS Testing website">
+</iframe>

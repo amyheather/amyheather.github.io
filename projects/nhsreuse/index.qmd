@@ -1,3 +1,13 @@
 ---
 title: NHS model reuse study
+subtitle: A qualitative study of NHS analysts attempting to reuse a stroke simulation model
+image: royaltyfree.jpg
 ---
+
+Since **February 2026**, I have been working on this study alongside **Lucy Morgan**, **Steffen Zscahler**, **Alison Harper**, and **Tom Monks**.
+
+It is a qualitative study to evaluate how a stroke simulation model I had developed could be reused in practice. Seven NHS data analysts were asked to work with the model, exploring its code, running it, and attempting to adapt it to their own contexts.
+
+We then each carried out semi-structured interviews with participants to understand their experiences, challenges, and perceptions of the model. Using thematic analysis, we have identified key barriers and facilitators to reuse.
+
+*Work in progress!*
