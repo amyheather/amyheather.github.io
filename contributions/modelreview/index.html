@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Quarto for research – Amy Heather</title>
+<title>Model reviews – Amy Heather</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -137,8 +137,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Quarto for research</h1>
-<p class="subtitle lead">Beginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.</p>
+<h1 class="title">Model reviews</h1>
+<p class="subtitle lead">Supporting modellers to make their DES more reproducible and reusable</p>
 </div>
 
 
@@ -155,20 +155,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><br></p>
-<p>I am delivering an in-person workshop for the <strong>Department of Health and Community Sciences</strong> at the <strong>University of Exeter</strong> on <strong>1 June 2026 (1–4 pm)</strong>. The session introduces researchers to <strong>Quarto</strong>, <strong>GitHub</strong>, and <strong>Markdown</strong> as tools for sharing and organising research more openly and reproducibly.</p>
-<p>All materials are being developed openly and will remain available online:</p>
+<p>In <strong>May 2025</strong> and <strong>February 2026</strong>, I was invited to review two existing simulation models.</p>
+<section id="hybrid-simulation-modelling-for-orthopaedics" class="level2">
+<h2 class="anchored" data-anchor-id="hybrid-simulation-modelling-for-orthopaedics">Hybrid simulation modelling for orthopaedics</h2>
+<p>The model is available at:</p>
+<blockquote class="blockquote">
+<p>Matthew Howells <a href="https://orcid.org/0000-0002-3931-7027"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Paul Harper <a href="https://orcid.org/0000-0001-7894-4907"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Daniel Gartner <a href="https://orcid.org/0000-0003-4361-8559"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Geraint Palmer <a href="https://orcid.org/0000-0001-7865-6964"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a> (2025) Hybrid Simulation Modelling for Orthopaedics. GitHub. <a href="https://github.com/MHowells/HybridSimModel" class="uri">https://github.com/MHowells/HybridSimModel</a>.</p>
+</blockquote>
+<p>It combines:</p>
 <ul>
-<li>Workshop site: <a href="https://pythonhealthdatascience.github.io/quarto-tutorial/" class="uri">https://pythonhealthdatascience.github.io/quarto-tutorial/</a></li>
-<li>Workshop site GitHub: <a href="https://github.com/pythonhealthdatascience/quarto-tutorial/" class="uri">https://github.com/pythonhealthdatascience/quarto-tutorial/</a></li>
-<li>Template/Codespace used in workshop: <a href="https://github.com/pythonhealthdatascience/quarto-template" class="uri">https://github.com/pythonhealthdatascience/quarto-template</a></li>
+<li>A system dynamics model used to model patient deterioration while waiting for a GP referral to primary care.</li>
+<li>A DES model used to model the patient journey through an orthopaedic department.</li>
 </ul>
-<p>The aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs.</p>
-<p><br></p>
-<iframe class="auto-preview" width="100%" height="500" src="https://pythonhealthdatascience.github.io/quarto-tutorial/" title="Introduction to Quarto for Research Projects">
-</iframe>
+<p>It is summarised in the poster “<a href="https://github.com/MHowells/SW25_poster">Clinical Pathway Modelling of a Trauma and Orthopaedics Department</a>” from the OR Society’s 12th Simulation Workshop (SW25) conference</p>
+<p>I reviewed the model repository, providing the review as a <a href="https://github.com/MHowells/HybridSimModel/issues/3">GitHub issue</a> (and an accompanying <a href="https://github.com/MHowells/HybridSimModel/pull/2">pull request</a>). The review was structured into:</p>
+<ul>
+<li>A review summary.</li>
+<li>Feedback from running the code (e.g., dependency management, code troubleshooting).</li>
+<li>Evaluation against the STARS framework for model reuse.</li>
+<li>Evaluation against the STARS reproducibility recommendations.</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled" title="Example snapshot from review">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Example snapshot from review
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="ortho_snapshot.png" class="img-fluid figure-img"></p>
+<figcaption>Screenshot from the review GitHub issue</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="nurse-staffing-simulation" class="level2">
+<h2 class="anchored" data-anchor-id="nurse-staffing-simulation">Nurse staffing simulation</h2>
+<p>The model is available at:</p>
+<blockquote class="blockquote">
+<p>Tolusha Dahanayake Yapa <a href="https://orcid.org/0009-0003-3576-5177"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Peter Griffiths <a href="https://orcid.org/0000-0003-2439-2857"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Tom Monks <a href="https://orcid.org/0000-0003-2631-4481"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Chiara Dall’Ora <a href="https://orcid.org/0000-0002-6858-3535"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Ezekwesiri Nwanosike <a href="https://orcid.org/0000-0003-1831-6591"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Natalie Pattison <a href="https://orcid.org/0000-0002-6771-8733"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a>, Christina Saville <a href="https://orcid.org/0000-0001-7718-5689"><img src="../../images/orcid.png" class="img-fluid" alt="ORCID"></a> (2026). Nurse Staffing Simulation Paper. GitHub. <a href="https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper" class="uri">https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper</a>.</p>
+</blockquote>
+<p>I attempted to reproduce results in the draft paper, recording results in a <a href="https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper/issues/1">GitHub issues</a> and providing pull requests with some suggested changes.</p>
+<p>This supported the addition of an environment file with all required dependencies, and identified a missing analysis script required for creating the paper tables.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script src="../../styles/autopreview.js"></script>

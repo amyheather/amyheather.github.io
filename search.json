@@ -35,39 +35,116 @@
     "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
   },
   {
-    "objectID": "packages/index.html",
-    "href": "packages/index.html",
-    "title": "Packages",
+    "objectID": "contributions/littlebookofdes/index.html",
+    "href": "contributions/littlebookofdes/index.html",
+    "title": "Little book of DES",
     "section": "",
-    "text": "lintquarto\nalt-text-linter"
+    "text": "In February 2025, I contributed to the HSMA little book of DES, a resource developed by Sammi Rosser and Dan Chalk."
   },
   {
-    "objectID": "projects/beginnerquarto/index.html",
-    "href": "projects/beginnerquarto/index.html",
-    "title": "Quarto for research",
+    "objectID": "contributions/vidigi/index.html",
+    "href": "contributions/vidigi/index.html",
+    "title": "vidigi",
     "section": "",
-    "text": "I am delivering an in-person workshop for the Department of Health and Community Sciences at the University of Exeter on 1 June 2026 (1–4 pm). The session introduces researchers to Quarto, GitHub, and Markdown as tools for sharing and organising research more openly and reproducibly.\nAll materials are being developed openly and will remain available online:\n\nWorkshop site: https://pythonhealthdatascience.github.io/quarto-tutorial/\nWorkshop site GitHub: https://github.com/pythonhealthdatascience/quarto-tutorial/\nTemplate/Codespace used in workshop: https://github.com/pythonhealthdatascience/quarto-template\n\nThe aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs."
+    "text": "Since June 2025, I have contributed to the package vidigi, developed by Sammi Rosser. It can be used to create animations for DES models in Python.\nGitHub: https://github.com/hsma-tools/vidigi\nDocumentation:"
   },
   {
-    "objectID": "projects/samuel2/index.html",
-    "href": "projects/samuel2/index.html",
-    "title": "SAMueL2 - Stroke Audit Machine Learning",
+    "objectID": "contributions/simtools/index.html",
+    "href": "contributions/simtools/index.html",
+    "title": "sim-tools",
     "section": "",
-    "text": "I worked on a few tasks for the SAMueL2 project in Spring 2023, supervised by Mike Allen. These were:\n\nData cleaning and descriptive analysis of SSNAP data (repository)\nDemographics of emergency stroke unit catchment areas (repository, website)"
+    "text": "Since February 2025, I have contributed to the package sim-tools, developed by Tom Monks. It supports DES in Python - for example, providing classes for different distributions and methods for estimating the appropriate number of replications.\nGitHub: https://github.com/sim-tools/sim-tools\nDocumentation:"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "contributions/paperreview/index.html",
+    "href": "contributions/paperreview/index.html",
+    "title": "Paper review",
     "section": "",
-    "text": "Ambulance DES\n\n\nWith South Western Ambulance Service NHS Foundation Trust (SWASFT).\n\n\n\n\n\n\n\n\n\n\n\n\nAmbulance Forecasting\n\n\nPrimary supervisor for summer placement as part of the HDR UK Black Internship Programme\n\n\n\n\n\n\n\n\n\n\n\n\nBirth outcomes\n\n\nPilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods\n\n\n\n\n\n\n\n\n\n\n\n\nDES RAP Book\n\n\nSelf-paced training resource that teaches you how to design, implement, and share discrete-event simulation (DES) models in Python and R as part of a reproducible analytical pipeline. It combines a step-by-step guide with complete example repositories that you can adapt for your own projects.\n\n\n\n\n\n\n\n\n\n\nDES reproductions\n\n\nAssessing the computational reproducibility of eight published healthcare DES models implemented in Python or R.\n\n\n\n\n\n\n\n\n\n\n\n\nHealth economics\n\n\nEstimating health-related quality of life utility values in multiple sclerosis\n\n\n\n\n\n\n\n\n\n\n\n\nIPACS\n\n\nCode refactoring, package development, and documentation for a patient flow simulation model.\n\n\n\n\n\n\n\n\n\n\n\n\nKailo\n\n\nDelivering #BeeWell (a school-based wellbeing survey) with schools in Northern Devon\n\n\n\n\n\n\n\n\n\n\n\n\nNHS model reuse study\n\n\nA qualitative study of NHS analysts attempting to reuse a stroke simulation model\n\n\n\n\n\n\n\n\n\n\n\n\nOncology\n\n\nModifications to the Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto for research\n\n\nBeginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.\n\n\n\n\n\n\n\n\n\n\n\n\nSAMueL2 - Stroke Audit Machine Learning\n\n\nData cleaning and demographics\n\n\n\n\n\n\n\n\n\n\n\n\nTesting in Research Workflows\n\n\nIntroductory materials on testing in Python and R\n\n\n\n\n\nNo matching items"
+    "text": "I have completed peer review for the Journal of Simulation."
   },
   {
-    "objectID": "projects/nhsreuse/index.html",
-    "href": "projects/nhsreuse/index.html",
-    "title": "NHS model reuse study",
+    "objectID": "projects/ambulanceforecast/index.html",
+    "href": "projects/ambulanceforecast/index.html",
+    "title": "Ambulance Forecasting",
     "section": "",
-    "text": "Since February 2026, I have been working on this study alongside Lucy Morgan, Steffen Zscahler, Alison Harper, and Tom Monks.\nIt is a qualitative study to evaluate how a stroke simulation model I had developed could be reused in practice. Seven NHS data analysts were asked to work with the model, exploring its code, running it, and attempting to adapt it to their own contexts.\nWe then each carried out semi-structured interviews with participants to understand their experiences, challenges, and perceptions of the model. Using thematic analysis, we have identified key barriers and facilitators to reuse.\nWork in progress!"
+    "text": "Not yet started!"
+  },
+  {
+    "objectID": "projects/testing/index.html",
+    "href": "projects/testing/index.html",
+    "title": "Testing in Research Workflows",
+    "section": "",
+    "text": "I developed these materials in collaboration with HDR UK between January and April 2026 as part of the STARS project.\nI produced a quarto site and accompanying videos (in development) for the HDR UK Futures training platform to introduce researchers to testing in research workflows."
+  },
+  {
+    "objectID": "projects/kailo/index.html",
+    "href": "projects/kailo/index.html",
+    "title": "Kailo",
+    "section": "",
+    "text": "I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools.\nThe video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at https://kailo.community/beewell/.\n\nWe planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.\n\nGitHub repository: https://github.com/kailo-beewell\nPackage used to produce dashboards: kailo-beewell-dashboard.\nStreamlit dashboards:\n\nStandard survey school dashboard - \nSymbol survey school dashboard - \nArea-level dashboard - \n\n\nI published a pre-registration on the Open Science Framework (10.17605/OSF.IO/85BVN) describing the the analysis plans for the dashboards, with two components describing each of the standard and symbol surveys.\nMy time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.\nExemplar screenshots from dashboards:"
+  },
+  {
+    "objectID": "projects/desrapbook/index.html",
+    "href": "projects/desrapbook/index.html",
+    "title": "DES RAP Book",
+    "section": "",
+    "text": "I worked on this from December 2024 to April 2026. I developed the materials, and they were reviewed by Tom Monks, Alison Harper, Fatemeh Alidoost, Rob Challen, Tom Slater and Nav Mustafee."
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#book",
+    "href": "projects/desrapbook/index.html#book",
+    "title": "DES RAP Book",
+    "section": "Book",
+    "text": "Book\nThe book is available at: https://pythonhealthdatascience.github.io/des_rap_book/"
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#examples",
+    "href": "projects/desrapbook/index.html#examples",
+    "title": "DES RAP Book",
+    "section": "Examples",
+    "text": "Examples\nThe book is accompanied by four worked examples:\n\nPython M/M/s model - https://github.com/pythonhealthdatascience/pydesrap_mms\nR M/M/s model - https://github.com/pythonhealthdatascience/rdesrap_mms\nPython stroke model - https://github.com/pythonhealthdatascience/pydesrap_stroke\nR stroke model - https://github.com/pythonhealthdatascience/rdesrap_stroke"
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#stars",
+    "href": "projects/desrapbook/index.html#stars",
+    "title": "DES RAP Book",
+    "section": "STARS",
+    "text": "STARS\nThis book was developed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
+  },
+  {
+    "objectID": "projects/ambulancedes/index.html",
+    "href": "projects/ambulancedes/index.html",
+    "title": "Ambulance DES",
+    "section": "",
+    "text": "I have recently started on this work, from April 2026 onwards - https://github.com/ambmodels/ambdes/.\nWork in progress!"
+  },
+  {
+    "objectID": "projects/birthoutcomes/index.html",
+    "href": "projects/birthoutcomes/index.html",
+    "title": "Birth outcomes",
+    "section": "",
+    "text": "I worked on this from October 2023 to April 2024, supervised by Mike Allen.\nI was reviewing and synthesising existing literature to help establish a foundation for this research."
+  },
+  {
+    "objectID": "projects/ipacs/index.html",
+    "href": "projects/ipacs/index.html",
+    "title": "IPACS",
+    "section": "",
+    "text": "In Spring 2023 I worked alongside Alison Harper to contribute to the discrete-time model on the project IPACS: Improving Patient flow between Acute, Community and Social care,\nModel code: I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed here). This contributed to the final repository hosted with NHS BNSSG Analytics.\nPackage and website: I also created an example of converting part of the model (the visit-based simulation) into an R package, as in this repository. This is supported by a website that provides an overview of how to run the model, and information about the model functions."
+  },
+  {
+    "objectID": "projects/oncology/index.html",
+    "href": "projects/oncology/index.html",
+    "title": "Oncology",
+    "section": "",
+    "text": "From July 2024 to October 2024 I worked on this model in conversation with Dawn Lee and Darren Burns.\nThis is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a clear README, website hosting detailed documentation, and a pilot web application for exploring treatment sequences."
+  },
+  {
+    "objectID": "projects/healtheconomics/index.html",
+    "href": "projects/healtheconomics/index.html",
+    "title": "Health economics",
+    "section": "",
+    "text": "I worked in the University of Exeter Health Economics group in Spring and Summer 2022 - during and after my BSc degree. I was supervised by Annie Hawton and Liz Goodwin.\nPublications:\n\nA Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. https://doi.org/10.1177/20552173231178441.\nE Goodwin; A Heather; N Morrish; J Freeman; K Boddy; S Thomas; J Chataway; R Middleton; A Hawton. 2025. Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis. Value in Health. https://doi.org/10.1016/j.jval.2025.09.3063.\n\nGitHub organisation"
   },
   {
     "objectID": "projects/desreproductions/index.html",
@@ -105,95 +182,81 @@
     "text": "STARS\nThis work was completed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
   },
   {
-    "objectID": "projects/healtheconomics/index.html",
-    "href": "projects/healtheconomics/index.html",
-    "title": "Health economics",
+    "objectID": "projects/nhsreuse/index.html",
+    "href": "projects/nhsreuse/index.html",
+    "title": "NHS model reuse study",
     "section": "",
-    "text": "I worked in the University of Exeter Health Economics group in Spring and Summer 2022 - during and after my BSc degree. I was supervised by Annie Hawton and Liz Goodwin.\nPublications:\n\nA Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. https://doi.org/10.1177/20552173231178441.\nE Goodwin; A Heather; N Morrish; J Freeman; K Boddy; S Thomas; J Chataway; R Middleton; A Hawton. 2025. Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis. Value in Health. https://doi.org/10.1016/j.jval.2025.09.3063.\n\nGitHub organisation"
+    "text": "Since February 2026, I have been working on this study alongside Lucy Morgan, Steffen Zscahler, Alison Harper, and Tom Monks.\nIt is a qualitative study to evaluate how a stroke simulation model I had developed could be reused in practice. Seven NHS data analysts were asked to work with the model, exploring its code, running it, and attempting to adapt it to their own contexts.\nWe then each carried out semi-structured interviews with participants to understand their experiences, challenges, and perceptions of the model. Using thematic analysis, we have identified key barriers and facilitators to reuse.\nWork in progress!"
   },
   {
-    "objectID": "projects/oncology/index.html",
-    "href": "projects/oncology/index.html",
-    "title": "Oncology",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "From July 2024 to October 2024 I worked on this model in conversation with Dawn Lee and Darren Burns.\nThis is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a clear README, website hosting detailed documentation, and a pilot web application for exploring treatment sequences."
+    "text": "Ambulance DES\n\n\nWith South Western Ambulance Service NHS Foundation Trust (SWASFT).\n\n\n\n\n\n\n\n\n\n\n\n\nAmbulance Forecasting\n\n\nPrimary supervisor for summer placement as part of the HDR UK Black Internship Programme\n\n\n\n\n\n\n\n\n\n\n\n\nBirth outcomes\n\n\nPilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods\n\n\n\n\n\n\n\n\n\n\n\n\nDES RAP Book\n\n\nSelf-paced training resource that teaches you how to design, implement, and share discrete-event simulation (DES) models in Python and R as part of a reproducible analytical pipeline. It combines a step-by-step guide with complete example repositories that you can adapt for your own projects.\n\n\n\n\n\n\n\n\n\n\nDES reproductions\n\n\nAssessing the computational reproducibility of eight published healthcare DES models implemented in Python or R.\n\n\n\n\n\n\n\n\n\n\n\n\nHealth economics\n\n\nEstimating health-related quality of life utility values in multiple sclerosis\n\n\n\n\n\n\n\n\n\n\n\n\nIPACS\n\n\nCode refactoring, package development, and documentation for a patient flow simulation model.\n\n\n\n\n\n\n\n\n\n\n\n\nKailo\n\n\nDelivering #BeeWell (a school-based wellbeing survey) with schools in Northern Devon\n\n\n\n\n\n\n\n\n\n\n\n\nNHS model reuse study\n\n\nA qualitative study of NHS analysts attempting to reuse a stroke simulation model\n\n\n\n\n\n\n\n\n\n\n\n\nOncology\n\n\nModifications to the Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto for research\n\n\nBeginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.\n\n\n\n\n\n\n\n\n\n\n\n\nSAMueL2 - Stroke Audit Machine Learning\n\n\nData cleaning and demographics\n\n\n\n\n\n\n\n\n\n\n\n\nTesting in Research Workflows\n\n\nIntroductory materials on testing in Python and R\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/ipacs/index.html",
-    "href": "projects/ipacs/index.html",
-    "title": "IPACS",
+    "objectID": "projects/samuel2/index.html",
+    "href": "projects/samuel2/index.html",
+    "title": "SAMueL2 - Stroke Audit Machine Learning",
     "section": "",
-    "text": "In Spring 2023 I worked alongside Alison Harper to contribute to the discrete-time model on the project IPACS: Improving Patient flow between Acute, Community and Social care,\nModel code: I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed here). This contributed to the final repository hosted with NHS BNSSG Analytics.\nPackage and website: I also created an example of converting part of the model (the visit-based simulation) into an R package, as in this repository. This is supported by a website that provides an overview of how to run the model, and information about the model functions."
+    "text": "I worked on a few tasks for the SAMueL2 project in Spring 2023, supervised by Mike Allen. These were:\n\nData cleaning and descriptive analysis of SSNAP data (repository)\nDemographics of emergency stroke unit catchment areas (repository, website)"
   },
   {
-    "objectID": "projects/birthoutcomes/index.html",
-    "href": "projects/birthoutcomes/index.html",
-    "title": "Birth outcomes",
+    "objectID": "projects/beginnerquarto/index.html",
+    "href": "projects/beginnerquarto/index.html",
+    "title": "Quarto for research",
     "section": "",
-    "text": "I worked on this from October 2023 to April 2024, supervised by Mike Allen.\nI was reviewing and synthesising existing literature to help establish a foundation for this research."
+    "text": "I am delivering an in-person workshop for the Department of Health and Community Sciences at the University of Exeter on 1 June 2026 (1–4 pm). The session introduces researchers to Quarto, GitHub, and Markdown as tools for sharing and organising research more openly and reproducibly.\nAll materials are being developed openly and will remain available online:\n\nWorkshop site: https://pythonhealthdatascience.github.io/quarto-tutorial/\nWorkshop site GitHub: https://github.com/pythonhealthdatascience/quarto-tutorial/\nTemplate/Codespace used in workshop: https://github.com/pythonhealthdatascience/quarto-template\n\nThe aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs."
   },
   {
-    "objectID": "projects/ambulancedes/index.html",
-    "href": "projects/ambulancedes/index.html",
-    "title": "Ambulance DES",
+    "objectID": "packages/index.html",
+    "href": "packages/index.html",
+    "title": "Packages",
     "section": "",
-    "text": "I have recently started on this work, from April 2026 onwards - https://github.com/ambmodels/ambdes/.\nWork in progress!"
+    "text": "lintquarto\nalt-text-linter"
   },
   {
-    "objectID": "projects/desrapbook/index.html",
-    "href": "projects/desrapbook/index.html",
-    "title": "DES RAP Book",
+    "objectID": "contributions/modelreview/index.html",
+    "href": "contributions/modelreview/index.html",
+    "title": "Model reviews",
     "section": "",
-    "text": "I worked on this from December 2024 to April 2026. I developed the materials, and they were reviewed by Tom Monks, Alison Harper, Fatemeh Alidoost, Rob Challen, Tom Slater and Nav Mustafee."
+    "text": "In May 2025 and February 2026, I was invited to review two existing simulation models."
   },
   {
-    "objectID": "projects/desrapbook/index.html#book",
-    "href": "projects/desrapbook/index.html#book",
-    "title": "DES RAP Book",
-    "section": "Book",
-    "text": "Book\nThe book is available at: https://pythonhealthdatascience.github.io/des_rap_book/"
+    "objectID": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
+    "href": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
+    "title": "Model reviews",
+    "section": "Hybrid simulation modelling for orthopaedics",
+    "text": "Hybrid simulation modelling for orthopaedics\nThe model is available at:\n\nMatthew Howells , Paul Harper , Daniel Gartner , Geraint Palmer  (2025) Hybrid Simulation Modelling for Orthopaedics. GitHub. https://github.com/MHowells/HybridSimModel.\n\nIt combines:\n\nA system dynamics model used to model patient deterioration while waiting for a GP referral to primary care.\nA DES model used to model the patient journey through an orthopaedic department.\n\nIt is summarised in the poster “Clinical Pathway Modelling of a Trauma and Orthopaedics Department” from the OR Society’s 12th Simulation Workshop (SW25) conference\nI reviewed the model repository, providing the review as a GitHub issue (and an accompanying pull request). The review was structured into:\n\nA review summary.\nFeedback from running the code (e.g., dependency management, code troubleshooting).\nEvaluation against the STARS framework for model reuse.\nEvaluation against the STARS reproducibility recommendations.\n\n\n\n\n\n\n\nNoteExample snapshot from review\n\n\n\n\n\n\n\n\nScreenshot from the review GitHub issue"
   },
   {
-    "objectID": "projects/desrapbook/index.html#examples",
-    "href": "projects/desrapbook/index.html#examples",
-    "title": "DES RAP Book",
-    "section": "Examples",
-    "text": "Examples\nThe book is accompanied by four worked examples:\n\nPython M/M/s model - https://github.com/pythonhealthdatascience/pydesrap_mms\nR M/M/s model - https://github.com/pythonhealthdatascience/rdesrap_mms\nPython stroke model - https://github.com/pythonhealthdatascience/pydesrap_stroke\nR stroke model - https://github.com/pythonhealthdatascience/rdesrap_stroke"
+    "objectID": "contributions/modelreview/index.html#nurse-staffing-simulation",
+    "href": "contributions/modelreview/index.html#nurse-staffing-simulation",
+    "title": "Model reviews",
+    "section": "Nurse staffing simulation",
+    "text": "Nurse staffing simulation\nThe model is available at:\n\nTolusha Dahanayake Yapa , Peter Griffiths , Tom Monks , Chiara Dall’Ora , Ezekwesiri Nwanosike , Natalie Pattison , Christina Saville  (2026). Nurse Staffing Simulation Paper. GitHub. https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper.\n\nI attempted to reproduce results in the draft paper, recording results in a GitHub issues and providing pull requests with some suggested changes.\nThis supported the addition of an environment file with all required dependencies, and identified a missing analysis script required for creating the paper tables."
   },
   {
-    "objectID": "projects/desrapbook/index.html#stars",
-    "href": "projects/desrapbook/index.html#stars",
-    "title": "DES RAP Book",
-    "section": "STARS",
-    "text": "STARS\nThis book was developed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
-  },
-  {
-    "objectID": "projects/kailo/index.html",
-    "href": "projects/kailo/index.html",
-    "title": "Kailo",
+    "objectID": "contributions/atlas/index.html",
+    "href": "contributions/atlas/index.html",
+    "title": "Healthcare Services Analytics & Decision Science Atlas",
     "section": "",
-    "text": "I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools.\nThe video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at https://kailo.community/beewell/.\n\nWe planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.\n\nGitHub repository: https://github.com/kailo-beewell\nPackage used to produce dashboards: kailo-beewell-dashboard.\nStreamlit dashboards:\n\nStandard survey school dashboard - \nSymbol survey school dashboard - \nArea-level dashboard - \n\n\nI published a pre-registration on the Open Science Framework (10.17605/OSF.IO/85BVN) describing the the analysis plans for the dashboards, with two components describing each of the standard and symbol surveys.\nMy time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.\nExemplar screenshots from dashboards:"
-  },
-  {
-    "objectID": "projects/testing/index.html",
-    "href": "projects/testing/index.html",
-    "title": "Testing in Research Workflows",
-    "section": "",
-    "text": "I developed these materials in collaboration with HDR UK between January and April 2026 as part of the STARS project.\nI produced a quarto site and accompanying videos (in development) for the HDR UK Futures training platform to introduce researchers to testing in research workflows."
-  },
-  {
-    "objectID": "projects/ambulanceforecast/index.html",
-    "href": "projects/ambulanceforecast/index.html",
-    "title": "Ambulance Forecasting",
-    "section": "",
-    "text": "Not yet started!"
+    "text": "Since November 2025, I have been contributing to the Healthcare Services Analytics & Decision Science Atlas, which is being developed by Sammi Rosser."
   },
   {
     "objectID": "contributions/index.html",
     "href": "contributions/index.html",
     "title": "Contributions",
     "section": "",
-    "text": "simtools\nReview hybrid model (matthew) and nurse staffing model\njohns stroke model\nreview for jos\natlas\nvidigi\nHSMA little book of des"
+    "text": "Healthcare Services Analytics & Decision Science Atlas\n\n\n\n\n\n\n\n\n\n\n\n\nLittle book of DES\n\n\n\n\n\n\n\n\n\n\n\n\nModel reviews\n\n\nSupporting modellers to make their DES more reproducible and reusable\n\n\n\n\n\n\n\n\n\n\n\n\nPaper review\n\n\nPeer review for the Journal of Simulation\n\n\n\n\n\n\n\n\n\n\n\n\nStroke\n\n\nContributing to John Williams’ model of the hyperacute/acute stroke pathway\n\n\n\n\n\n\n\n\n\n\n\n\nsim-tools\n\n\nContributing to python package\n\n\n\n\n\n\n\n\n\n\n\n\nvidigi\n\n\nContributing to python package\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contributions/stroke/index.html",
+    "href": "contributions/stroke/index.html",
+    "title": "Stroke",
+    "section": "",
+    "text": "This is a model developed by John Williams, a Stroke Performance Analyst at Maidstone and Tunbridge Wells NHS Trust. Additional tweaks, documentation and web app creation have been undertaken by Sammi Rosser. I have made some supporting contributions (since January 2026).\nGitHub: https://github.com/hsma-tools/stroke_model_des_hsma/tree/main\nWeb app:"
   },
   {
     "objectID": "community/index.html",

@@ -28,5 +28,17 @@
       "/projects/samuel2/index.html",
       "/projects/testing/index.html"
     ]
+  },
+  {
+    "listing": "/contributions/index.html",
+    "items": [
+      "/contributions/atlas/index.html",
+      "/contributions/littlebookofdes/index.html",
+      "/contributions/modelreview/index.html",
+      "/contributions/paperreview/index.html",
+      "/contributions/stroke/index.html",
+      "/contributions/simtools/index.html",
+      "/contributions/vidigi/index.html"
+    ]
   }
 ]
