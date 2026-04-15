@@ -4,14 +4,21 @@ format:
     page-layout: full
     css: styles/homepage.css
 listing:
+  - id: projects
+    type: grid
+    fields: [title, image]
+    contents:
+      - projects/desrapbook
+      - projects/oncology
+      - projects/testing
   - id: publications
     contents: publications/featured.yml
     template: publications/featured.ejs
 ---
 
-:::: {.columns}
+::::: {.columns}
 
-::: {.column width=35% .profile .box}
+:::: {.column width=35% .profile .box}
 
 ![](images/profile.jpeg){.circular}
 
@@ -32,13 +39,13 @@ listing:
   Email
 </a>
 
-:::
+::::
 
-::: {.column width=5%}
+:::: {.column width=5%}
 
-:::
+::::
 
-::: {.column width=60%}
+:::: {.column width=60%}
 
 [Open reproducible]{.name-font style="font-size: 3rem; color: ##f9d9d8;"}  
 [health data analysis]{.name-font style="font-size: 3rem; color: #feb39a; font-style: italic;"}
@@ -49,9 +56,12 @@ Skilled in applying tools such as Quarto and Streamlit to create accessible, wel
 
 ## Selected Projects
 
+::: {#projects}
 :::
 
 ::::
+
+:::::
 
 ## Recent publications
 
