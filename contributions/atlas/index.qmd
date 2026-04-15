@@ -1,0 +1,14 @@
+---
+title: Healthcare Services Analytics & Decision Science Atlas
+image: homepage.png
+---
+
+Since **November 2025**, I have been contributing to the Healthcare Services Analytics & Decision Science Atlas, which is being developed by **Sammi Rosser**.
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://atlas.hsma.co.uk/"
+  title="Healthcare Services Analytics & Decision Science Atlas">
+</iframe>

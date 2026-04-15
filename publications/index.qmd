@@ -4,9 +4,6 @@ listing:
   - id: publications
     contents: publications.yml
     template: publications.ejs
-format: 
-  html:
-    page-layout: full
 ---
 
 ::: {#publications}

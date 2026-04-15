@@ -17,6 +17,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme:
       - darkly
       - styles/theme.scss

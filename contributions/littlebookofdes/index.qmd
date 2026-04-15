@@ -1,0 +1,14 @@
+---
+title: Little book of DES
+image: homepage.png
+---
+
+In **February 2025**, I contributed to the HSMA little book of DES, a resource developed by **Sammi Rosser** and **Dan Chalk**.
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://des.hsma.co.uk/"
+  title="HSMA - the little book of DES">
+</iframe>

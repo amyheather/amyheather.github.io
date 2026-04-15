@@ -6,7 +6,4 @@ listing:
   grid-columns: 3
   fields: [title, subtitle, image]
   image-height: "100"
-format: 
-  html:
-    page-layout: full
 ---

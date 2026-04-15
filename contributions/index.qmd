@@ -1,11 +1,9 @@
 ---
 title: Contributions
+listing:
+  contents: /*/index.qmd
+  type: grid
+  grid-columns: 3
+  fields: [title, subtitle, image]
+  image-height: "100"
 ---
-
-* simtools
-* Review hybrid model (matthew) and nurse staffing model
-* johns stroke model
-* review for jos
-* atlas
-* vidigi
-* HSMA little book of des

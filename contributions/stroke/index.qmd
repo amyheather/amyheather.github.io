@@ -1,0 +1,19 @@
+---
+title: Stroke
+subtitle: Contributing to John Williams' model of the hyperacute/acute stroke pathway
+image: royaltyfree.jpg
+---
+
+This is a model developed by **John Williams**, a Stroke Performance Analyst at Maidstone and Tunbridge Wells NHS Trust. Additional tweaks, documentation and web app creation have been undertaken by **Sammi Rosser**. I have made some supporting contributions (since **January 2026**).
+
+GitHub: <https://github.com/hsma-tools/stroke_model_des_hsma/tree/main>
+
+Web app:
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://hsma-tools.github.io/stroke_model_des_hsma/"
+  title="Stroke model">
+</iframe>

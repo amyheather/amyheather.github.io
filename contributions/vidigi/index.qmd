@@ -1,0 +1,19 @@
+---
+title: vidigi
+subtitle: Contributing to python package
+image: animation.png
+---
+
+Since **June 2025**, I have contributed to the package **vidigi**, developed by **Sammi Rosser**. It can be used to create animations for DES models in Python.
+
+GitHub: <https://github.com/hsma-tools/vidigi>
+
+Documentation:
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://hsma-tools.github.io/vidigi/vidigi_docs/"
+  title="vidigi">
+</iframe>
