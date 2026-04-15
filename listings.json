@@ -5,7 +5,11 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/projects/desrapbook/index.html",
+      "/projects/oncology/index.html",
+      "/projects/testing/index.html"
+    ]
   },
   {
     "listing": "/projects/index.html",
