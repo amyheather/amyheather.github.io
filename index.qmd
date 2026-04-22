@@ -53,7 +53,7 @@ Experienced in developing and maintaining reproducible analytical workflows in P
 
 Skilled in applying tools such as Quarto and Streamlit to create accessible, well-documented outputs, and in packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.
 
-## Selected Projects
+## Selected projects
 
 ::: {#projects}
 :::

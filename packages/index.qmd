@@ -2,7 +2,7 @@
 title: Packages
 ---
 
-I often structure research projects as self-contained packages. I have also contributed to several packages. In addition to those, I also own and maintain a few ,more general tools that are independent of any single research project.
+I often structure research projects as self-contained packages. I have also contributed to several packages. In addition to those, I also own and maintain a few more general tools that are independent of any single research project.
 
 ## lintquarto
 
