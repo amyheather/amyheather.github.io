@@ -52,6 +52,8 @@ and using multivariable linear regression to investigate the strength of indepen
 
 ::: {.column}
 
+![Spring Hackathon: Making Replications Count](munster_hackathon.jpg)
+
 ![Photograph from RPySoc 2025](rpysoc2025.jpeg){width=95%}
 
 :::
