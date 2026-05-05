@@ -2,26 +2,65 @@
 title: Community
 ---
 
-:::: {.columns}
+::::: {.columns}
 
-::: {.column}
+:::: {.column width=55%}
 
 ## Hackathons
 
-**Spring Hackathon: Making Replications Count:** 4th - 6th May 2026. Organised by  FORRT (Framework for Open and Reproducible Research Training). I am part of the team developing a tool for automated extraction of data from published replication studies, which will be used to enhance the FORRT Library of Replication Attempts (FLoRA).
+### Spring Hackathon: Making Replications Count
+
+4th - 6th May 2026. Organised by [FORRT (Framework for Open and Reproducible Research Training)](https://forrt.org/).
+
+I am part of a team developing a [tool to automatically extract data](https://github.com/forrtproject/flora-extractor) from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication.
 
 ## Clubs
 
-* NHS model reuse club
-* University of Exeter St Lukes coding club
+### NHS model reuse club
+
+Coming soon!
+
+I will be helping to set up and support this club, with a focus on sharing best practices and encouraging reuse of simulation models and analytical code across NHS and academic settings.
+
+### University of Exeter St Luke's coding club
+
+March - July 2025.
+
+I supported sessions at the coding club. This included helping participants during activities, and coordinating practical aspects such as organising food when the main organiser was unavailable.
 
 ## Conferences
 
-**RPySoc 2025:** The NHS-R/NHS.pycom Open-Source Conference, November 2025.
+### RSECon26
 
-**Simulation Workshop 2025 (SW25):** 31st March - 2nd April 2025.
+9th - 11th September 2026.
 
-**European Health Economics Association (EuHEA)**: July 2022. I shared two presentations at this [conference](https://euhea.eu/abstracts_conference_2022.html):
+The UK's annual conference for the Research Software Engineering community, focused on reproducible, sustainable, and high-quality research software.
+
+### South West Analytics & Infrastructure in Healthcare (SWAIH) 2026
+
+8th July 2026.
+
+A regional conference bringing together healthcare analysts, data scientists, and infrastructure specialists to share applied work across NHS and academia.
+
+### RPySoc 2025
+
+November 2025.
+
+The NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.
+
+### Simulation Workshop 2025 (SW25)
+
+31st March - 2nd April 2025.
+
+Conference focused on simulation modelling methods and applications across industry, defence, and healthcare.
+
+### European Health Economics Association (EuHEA)
+
+July 2022.
+
+An international conference for health economists to present research on economic evaluation, policy, and health system performance.
+
+I shared two presentations at this [conference](https://euhea.eu/abstracts_conference_2022.html):
 
 ::: {.callout-note title="Exploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis" collapse="true"}
 
@@ -48,13 +87,19 @@ and using multivariable linear regression to investigate the strength of indepen
 
 :::
 
+::::
+
+::: {.column width=5%}
+
 :::
 
-::: {.column}
+::: {.column width=40%}
 
 ![Spring Hackathon: Making Replications Count](munster_hackathon.jpg)
 
-![Photograph from RPySoc 2025](rpysoc2025.jpeg){width=95%}
+![Visiting Münster for Spring Hackathon: Making Replications Count](munster.jpg)
+
+![EuHEA with the University of Exeter Health Economics team](euhea.jpg){width=95%}
 
 :::
 
