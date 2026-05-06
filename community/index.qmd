@@ -10,9 +10,9 @@ title: Community
 
 ### Spring Hackathon: Making Replications Count
 
-4th - 6th May 2026. Organised by [FORRT (Framework for Open and Reproducible Research Training)](https://forrt.org/).
+4th - 6th May 2026.
 
-I am part of a team developing a [tool to automatically extract data](https://github.com/forrtproject/flora-extractor) from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication.
+Organised by [FORRT (Framework for Open and Reproducible Research Training)](https://forrt.org/) ([GitHub](https://github.com/forrtproject)). I was part of a team developing a tool to automatically extract data from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication.
 
 ## Clubs
 
@@ -44,7 +44,7 @@ A regional conference bringing together healthcare analysts, data scientists, an
 
 ### RPySoc 2025
 
-November 2025.
+13th - 14th November 2025.
 
 The NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.
 
@@ -56,7 +56,7 @@ Conference focused on simulation modelling methods and applications across indus
 
 ### European Health Economics Association (EuHEA)
 
-July 2022.
+5th - 8th July 2022.
 
 An international conference for health economists to present research on economic evaluation, policy, and health system performance.
 
