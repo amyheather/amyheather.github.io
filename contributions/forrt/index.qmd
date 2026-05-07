@@ -1,0 +1,20 @@
+---
+title: FORRT (Framework for Open and Reproducible Research Training)
+image: forrt.png
+---
+
+[FORRT (Framework for Open and Reproducible Research Training)](https://forrt.org/) is a global initiative promoting open, transparent, and reproducible research practices through community-driven resources and training.
+
+FLoRA (FORRT Library of Replication Attempts) is an open, curated database of replication studies, designed to improve the visibility and reuse of replication and reproduction research.
+
+As part of a [FORRT hackathon](/community/index.qmd), I contributed to the development of the [flora-extractor tool](https://github.com/forrtproject/flora-extractor), which supports structured data extraction for FLoRA.
+
+You can check out FLoRA here:
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://forrt.org/flora-explorer/"
+  title="FLoRA Explorer">
+</iframe>
