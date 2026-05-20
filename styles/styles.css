@@ -190,3 +190,28 @@ a.paper-link {
 .iframe-header a:focus {
   text-decoration: none;
 }
+
+
+/* ==================== Customising listing: default ==================== */
+
+.quarto-listing-default .quarto-post,
+.listing-default .quarto-post,
+div.quarto-post {
+  background: #291818;
+  border: 1px solid #4e2e2e;
+  border-radius: 0.8rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.quarto-post .thumbnail img,
+.quarto-post .thumbnail-image {
+  border-radius: 0.6rem;
+}
+
+.quarto-listing-default .quarto-post,
+.listing-default .quarto-post,
+div.quarto-post .body .listing-subtitle {
+  font-size: 1em;
+  padding-top: 1em;
+}

@@ -1,5 +1,23 @@
 [
   {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/ambulancedes/index.html",
+      "/projects/ambulanceforecast/index.html",
+      "/projects/nhsreuse/index.html",
+      "/projects/beginnerquarto/index.html",
+      "/projects/testing/index.html",
+      "/projects/desrapbook/index.html",
+      "/projects/birthoutcomes/index.html",
+      "/projects/desreproductions/index.html",
+      "/projects/oncology/index.html",
+      "/projects/ipacs/index.html",
+      "/projects/kailo/index.html",
+      "/projects/samuel2/index.html",
+      "/projects/healtheconomics/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": []
   },
@@ -8,24 +26,6 @@
     "items": [
       "/projects/desrapbook/index.html",
       "/projects/oncology/index.html",
-      "/projects/testing/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/ambulancedes/index.html",
-      "/projects/ambulanceforecast/index.html",
-      "/projects/birthoutcomes/index.html",
-      "/projects/desrapbook/index.html",
-      "/projects/desreproductions/index.html",
-      "/projects/healtheconomics/index.html",
-      "/projects/ipacs/index.html",
-      "/projects/kailo/index.html",
-      "/projects/nhsreuse/index.html",
-      "/projects/oncology/index.html",
-      "/projects/beginnerquarto/index.html",
-      "/projects/samuel2/index.html",
       "/projects/testing/index.html"
     ]
   },
