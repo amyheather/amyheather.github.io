@@ -1,9 +1,73 @@
 ---
 title: Projects
 listing:
-  contents: /*/index.qmd
-  type: grid
-  grid-columns: 3
-  fields: [title, subtitle, image]
-  image-height: "100"
+  - id: projects-2026
+    contents: /*/index.qmd
+    include:
+      year: 2026
+    image-align: left
+    image-height: 200px
+    fields: [title, subtitle, image]
+
+  - id: projects-2025
+    contents: /*/index.qmd
+    include:
+      year: 2025
+    image-align: left
+    image-height: 200px
+    fields: [title, subtitle, image]
+
+  - id: projects-2024
+    contents: /*/index.qmd
+    include:
+      year: 2024
+    image-align: left
+    image-height: 200px
+    fields: [title, subtitle, image]
+
+  - id: projects-2023
+    contents: /*/index.qmd
+    include:
+      year: 2023
+    image-align: left
+    image-height: 200px
+    fields: [title, subtitle, image]
+
+  - id: projects-2022
+    contents: /*/index.qmd
+    include:
+      year: 2022
+    image-align: left
+    image-height: 200px
+    fields: [title, subtitle, image]
+format:
+  html:
+    page-layout: article
 ---
+
+Projects are grouped by year for readability. For projects that spanned multiple years, I've placed them in the year when most of the work took place.
+
+## 2026
+
+::: {#projects-2026}
+:::
+
+## 2025
+
+::: {#projects-2025}
+:::
+
+## 2024
+
+::: {#projects-2024}
+:::
+
+## 2023
+
+::: {#projects-2023}
+:::
+
+## 2022
+
+::: {#projects-2022}
+:::

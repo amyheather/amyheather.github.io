@@ -1,6 +1,7 @@
 ---
 title: DES reproductions
-subtitle: Assessing the computational reproducibility of eight published healthcare DES models implemented in Python or R.
+subtitle: Assessment of the computational reproducibility of eight published healthcare DES models in Python and R.
+year: 2024
 ---
 
 I worked on this from **May 2024 to January 2025**, with supervision and guidance **Tom Monks**. I also shared progress with **Alison Harper**, **Nav Mustafee**, and **Andy Mayne**.

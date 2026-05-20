@@ -1,7 +1,8 @@
 ---
 title: DES RAP Book
-subtitle: "Self-paced training resource that teaches you how to design, implement, and share discrete-event simulation (DES) models in Python and R as part of a reproducible analytical pipeline. It combines a step-by-step guide with complete example repositories that you can adapt for your own projects."
+subtitle: "Self-paced training resource on building, implementing, and sharing discrete-event simulation models in Python and R within a reproducible analytical pipeline, combining a step-by-step guide with complete example repositories."
 image: homepage.png
+year: 2025
 ---
 
 I worked on this from **December 2024 to April 2026**. I developed the materials, and they were reviewed by **Tom Monks**, **Alison Harper**, **Fatemeh Alidoost**, **Rob Challen**, **Tom Slater** and **Nav Mustafee**.

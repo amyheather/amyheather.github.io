@@ -1,7 +1,8 @@
 ---
 title: Birth outcomes
-subtitle: Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods
+subtitle: Pilot work on birth outcome prediction, using cardiotocography data and causal inference methods
 image: screenshot.png
+year: 2024
 ---
 
 I worked on this from **October 2023 to April 2024**, supervised by **Mike Allen**.

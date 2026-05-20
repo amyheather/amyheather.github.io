@@ -1,7 +1,8 @@
 ---
 title: Quarto for research
-subtitle: Beginner tutorial on using Quarto to share and organised research, introducing learners to GitHub, Quarto and Markdown.
+subtitle: Beginner-friendly tutorial on using Quarto, Markdown, and GitHub to share research openly as a website.
 image: homepage.png
+year: 2026
 ---
 
 <br>

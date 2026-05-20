@@ -2,6 +2,7 @@
 title: IPACS
 subtitle: Code refactoring, package development, and documentation for a patient flow simulation model.
 image: ipacs_website.png
+year: 2023
 ---
 
 In **Spring 2023** I worked alongside **Alison Harper** to contribute to the discrete-time model on the project IPACS: Improving Patient flow between Acute, Community and Social care,

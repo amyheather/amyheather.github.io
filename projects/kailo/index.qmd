@@ -1,7 +1,8 @@
 ---
 title: Kailo
-subtitle: "Delivering #BeeWell (a school-based wellbeing survey) with schools in Northern Devon"
+subtitle: "Delivery of the #BeeWell school wellbeing survey with schools in Northern Devon."
 image: kailo_area1.png
+year: 2023
 ---
 
 <a href="https://kailo.community/beewell/">

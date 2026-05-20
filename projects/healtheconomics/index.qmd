@@ -1,7 +1,8 @@
 ---
 title: Health economics
-subtitle: Estimating health-related quality of life utility values in multiple sclerosis
+subtitle: Estimating health-related quality of life utility values in multiple sclerosis.
 image: 2023fig1.jpg
+year: 2022
 ---
 
 I worked in the University of Exeter Health Economics group in **Spring and Summer 2022** - during and after my BSc degree. I was supervised by **Annie Hawton** and **Liz Goodwin**.

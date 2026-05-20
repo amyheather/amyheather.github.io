@@ -1,7 +1,8 @@
 ---
 title: Ambulance Forecasting
-subtitle: Primary supervisor for summer placement as part of the HDR UK Black Internship Programme
+subtitle: Supervision of a summer placement project in ambulance demand forecasting as part of the HDR UK Black Internship Programme.
 image: royaltyfree.jpg
+year: 2026
 ---
 
 *Not yet started!*
