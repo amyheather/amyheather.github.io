@@ -5,6 +5,12 @@ image: pixelambulance.png
 year: 2026
 ---
 
-I have recently started on this work, from **April 2026** onwards - <https://github.com/ambmodels/ambdes/>.
+I have recently started on this work, from **April 2026** onwards.
 
-*Work in progress!*
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://ambmodels.github.io/ambdes/"
+  title="Ambulance DES">
+</iframe>
