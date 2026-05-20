@@ -5,5 +5,5 @@ listing:
   type: grid
   grid-columns: 3
   fields: [title, subtitle, image]
-  image-height: "100"
+  image-height: 200px
 ---
