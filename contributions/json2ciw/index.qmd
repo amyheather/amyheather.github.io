@@ -1,0 +1,19 @@
+---
+title: json2ciw
+subtitle: Contributing to json2ciw package
+image: orangelogo.png
+---
+
+Since **June 2026**, I have contributed to the package **json2ciw**, developed by **Tom Monks**. It is a Python tool that can convert JSON files into functional `Ciw` simulation models.
+
+GitHub: <https://github.com/sim-agent/json2ciw>
+
+Documentation:
+
+<iframe
+  class="auto-preview"
+  width="100%"
+  height="800"
+  src="https://sim-agent.github.io/json2ciw/"
+  title="json2ciw">
+</iframe>
