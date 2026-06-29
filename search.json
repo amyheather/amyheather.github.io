@@ -1,5 +1,180 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amy Heather",
+    "section": "",
+    "text": "POSTDOCTORAL RESEARCH ASSOCIATE AT THE UNIVERSITY OF EXETER\n  GitHub    LinkedIn    Email \n\n\n\n\nOpen reproducible\nhealth data analysis\nExperienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation.\nSkilled in applying tools such as Quarto and Streamlit to create accessible, well-documented outputs, and in packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Amy Heather",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
+    "title": "Amy Heather",
+    "section": "Recent publications",
+    "text": "Recent publications\n\n\n\n  \n    \n      \n\n    \n      \n\n        \n          Reproducible analytical pipelines for healthcare discrete-event simulation: An open guide and worked examples\n        \n\n        \n          \n            NIHR Open Research\n             ˖ \n            Jun 16, 2026\n          \n        \n\n      \n    \n\n    \n      \n\n    \n      \n\n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            Sep 9, 2025\n          \n        \n\n      \n    \n\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#other-links",
+    "href": "index.html#other-links",
+    "title": "Amy Heather",
+    "section": "Other links",
+    "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
+  },
+  {
+    "objectID": "projects/healtheconomics/index.html",
+    "href": "projects/healtheconomics/index.html",
+    "title": "Health economics",
+    "section": "",
+    "text": "I worked in the University of Exeter Health Economics group in Spring and Summer 2022 - during and after my BSc degree. I was supervised by Annie Hawton and Liz Goodwin.\nPublications:\n\nA Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. https://doi.org/10.1177/20552173231178441.\nE Goodwin; A Heather; N Morrish; J Freeman; K Boddy; S Thomas; J Chataway; R Middleton; A Hawton. 2025. Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis. Value in Health. https://doi.org/10.1016/j.jval.2025.09.3063.\n\nGitHub organisation"
+  },
+  {
+    "objectID": "projects/nhsreuse/index.html",
+    "href": "projects/nhsreuse/index.html",
+    "title": "NHS model reuse study",
+    "section": "",
+    "text": "From February to April 2026, I have been working on this study alongside Lucy Morgan, Steffen Zscahler, Alison Harper, and Tom Monks.\nIt is a qualitative study to evaluate how a stroke simulation model I had developed could be reused in practice. Seven NHS data analysts were asked to work with the model, exploring its code, running it, and attempting to adapt it to their own contexts.\nWe then each carried out semi-structured interviews with participants to understand their experiences, challenges, and perceptions of the model. Using thematic analysis, we have identified key barriers and facilitators to reuse.\nWork in progress!"
+  },
+  {
+    "objectID": "projects/testing/index.html",
+    "href": "projects/testing/index.html",
+    "title": "Testing in Research Workflows",
+    "section": "",
+    "text": "I developed these materials in collaboration with HDR UK between January and April 2026 as part of the STARS project.\nI produced a quarto site and accompanying videos (in development) for the HDR UK Futures training platform to introduce researchers to testing in research workflows."
+  },
+  {
+    "objectID": "projects/oncology/index.html",
+    "href": "projects/oncology/index.html",
+    "title": "Oncology",
+    "section": "",
+    "text": "From July 2024 to October 2024 I worked on this model in conversation with Dawn Lee and Darren Burns.\nThis is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a clear README, website hosting detailed documentation, and a pilot web application for exploring treatment sequences."
+  },
+  {
+    "objectID": "projects/desrapbook/index.html",
+    "href": "projects/desrapbook/index.html",
+    "title": "DES RAP Book",
+    "section": "",
+    "text": "I worked on this from December 2024 to April 2026. I developed the materials, and they were reviewed by Tom Monks, Alison Harper, Fatemeh Alidoost, Rob Challen, Tom Slater and Nav Mustafee."
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#book",
+    "href": "projects/desrapbook/index.html#book",
+    "title": "DES RAP Book",
+    "section": "Book",
+    "text": "Book\nThe book is available at: https://pythonhealthdatascience.github.io/des_rap_book/"
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#examples",
+    "href": "projects/desrapbook/index.html#examples",
+    "title": "DES RAP Book",
+    "section": "Examples",
+    "text": "Examples\nThe book is accompanied by four worked examples:\n\nPython M/M/s model - https://github.com/pythonhealthdatascience/pydesrap_mms\nR M/M/s model - https://github.com/pythonhealthdatascience/rdesrap_mms\nPython stroke model - https://github.com/pythonhealthdatascience/pydesrap_stroke\nR stroke model - https://github.com/pythonhealthdatascience/rdesrap_stroke"
+  },
+  {
+    "objectID": "projects/desrapbook/index.html#stars",
+    "href": "projects/desrapbook/index.html#stars",
+    "title": "DES RAP Book",
+    "section": "STARS",
+    "text": "STARS\nThis book was developed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
+  },
+  {
+    "objectID": "projects/ambulanceforecast/index.html",
+    "href": "projects/ambulanceforecast/index.html",
+    "title": "Ambulance Forecasting",
+    "section": "",
+    "text": "Not yet started!"
+  },
+  {
+    "objectID": "projects/beginnerquarto/index.html",
+    "href": "projects/beginnerquarto/index.html",
+    "title": "Quarto for research",
+    "section": "",
+    "text": "I delivered an in-person workshop for the Department of Health and Community Sciences at the University of Exeter on 1 June 2026. The session introduced researchers to Quarto, GitHub, and Markdown as tools for sharing and organising research more openly and reproducibly.\nAll materials were developed openly and remain available online:\n\nWorkshop site: https://pythonhealthdatascience.github.io/quarto-tutorial/\nWorkshop site GitHub: https://github.com/pythonhealthdatascience/quarto-tutorial/\nTemplate/Codespace used in workshop: https://github.com/pythonhealthdatascience/quarto-template\n\nThe aim was to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs."
+  },
+  {
+    "objectID": "contributions/paperreview/index.html",
+    "href": "contributions/paperreview/index.html",
+    "title": "Paper review",
+    "section": "",
+    "text": "I have completed peer review for the Journal of Simulation."
+  },
+  {
+    "objectID": "contributions/stroke/index.html",
+    "href": "contributions/stroke/index.html",
+    "title": "Stroke",
+    "section": "",
+    "text": "This is a model developed by John Williams, a Stroke Performance Analyst at Maidstone and Tunbridge Wells NHS Trust. Additional tweaks, documentation and web app creation have been undertaken by Sammi Rosser. I have made some supporting contributions (since January 2026).\nGitHub: https://github.com/hsma-tools/stroke_model_des_hsma/tree/main\nWeb app:"
+  },
+  {
+    "objectID": "contributions/vidigi/index.html",
+    "href": "contributions/vidigi/index.html",
+    "title": "vidigi",
+    "section": "",
+    "text": "Since June 2025, I have contributed to the package vidigi, developed by Sammi Rosser. It can be used to create animations for DES models in Python.\nGitHub: https://github.com/hsma-tools/vidigi\nDocumentation:"
+  },
+  {
+    "objectID": "contributions/modelreview/index.html",
+    "href": "contributions/modelreview/index.html",
+    "title": "Model reviews",
+    "section": "",
+    "text": "In May 2025 and February 2026, I was invited to review two existing simulation models."
+  },
+  {
+    "objectID": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
+    "href": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
+    "title": "Model reviews",
+    "section": "Hybrid simulation modelling for orthopaedics",
+    "text": "Hybrid simulation modelling for orthopaedics\nThe model is available at:\n\nMatthew Howells , Paul Harper , Daniel Gartner , Geraint Palmer  (2025) Hybrid Simulation Modelling for Orthopaedics. GitHub. https://github.com/MHowells/HybridSimModel.\n\nIt combines:\n\nA system dynamics model used to model patient deterioration while waiting for a GP referral to primary care.\nA DES model used to model the patient journey through an orthopaedic department.\n\nIt is summarised in the poster “Clinical Pathway Modelling of a Trauma and Orthopaedics Department” from the OR Society’s 12th Simulation Workshop (SW25) conference\nI reviewed the model repository, providing the review as a GitHub issue (and an accompanying pull request). The review was structured into:\n\nA review summary.\nFeedback from running the code (e.g., dependency management, code troubleshooting).\nEvaluation against the STARS framework for model reuse.\nEvaluation against the STARS reproducibility recommendations.\n\n\n\n\n\n\n\nNoteExample snapshot from review\n\n\n\n\n\n\n\n\nScreenshot from the review GitHub issue"
+  },
+  {
+    "objectID": "contributions/modelreview/index.html#nurse-staffing-simulation",
+    "href": "contributions/modelreview/index.html#nurse-staffing-simulation",
+    "title": "Model reviews",
+    "section": "Nurse staffing simulation",
+    "text": "Nurse staffing simulation\nThe model is available at:\n\nTolusha Dahanayake Yapa , Peter Griffiths , Tom Monks , Chiara Dall’Ora , Ezekwesiri Nwanosike , Natalie Pattison , Christina Saville  (2026). Nurse Staffing Simulation Paper. GitHub. https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper.\n\nI attempted to reproduce results in the draft paper, recording results in a GitHub issues and providing pull requests with some suggested changes.\nThis supported the addition of an environment file with all required dependencies, and identified a missing analysis script required for creating the paper tables."
+  },
+  {
+    "objectID": "contributions/forrt/index.html",
+    "href": "contributions/forrt/index.html",
+    "title": "FORRT (Framework for Open and Reproducible Research Training)",
+    "section": "",
+    "text": "FORRT (Framework for Open and Reproducible Research Training) is a global initiative promoting open, transparent, and reproducible research practices through community-driven resources and training.\nFLoRA (FORRT Library of Replication Attempts) is an open, curated database of replication studies, designed to improve the visibility and reuse of replication and reproduction research.\nAs part of a FORRT hackathon, I contributed to the development of the flora-extractor tool, which supports structured data extraction for FLoRA.\nYou can check out FLoRA here:"
+  },
+  {
+    "objectID": "community/index.html",
+    "href": "community/index.html",
+    "title": "Community",
+    "section": "",
+    "text": "4th - 6th May 2026.\nOrganised by FORRT (Framework for Open and Reproducible Research Training) (GitHub). I was part of a team developing a tool to automatically extract data from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication.\n\n\n\n\n\n\nComing soon!\nI will be helping to set up and support this club, with a focus on sharing best practices and encouraging reuse of simulation models and analytical code across NHS and academic settings.\n\n\n\nMarch - July 2025.\nI supported sessions at the coding club. This included helping participants during activities, and coordinating practical aspects such as organising food when the main organiser was unavailable.\n\n\n\n\n\n\n9th - 11th September 2026.\nThe UK’s annual conference for the Research Software Engineering community, focused on reproducible, sustainable, and high-quality research software.\n\n\n\n8th July 2026.\nA regional conference bringing together healthcare analysts, data scientists, and infrastructure specialists to share applied work across NHS and academia.\n\n\n\n13th - 14th November 2025.\nThe NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.\n\n\n\n31st March - 2nd April 2025.\nConference focused on simulation modelling methods and applications across industry, defence, and healthcare.\n\n\n\n5th - 8th July 2022.\nAn international conference for health economists to present research on economic evaluation, policy, and health system performance.\nI shared two presentations at this conference:\n\n\n\n\n\n\nNoteExploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis\n\n\n\n\n\nObjectives The National Institute of Health and Care Excellence, which gives guidance on health/social care interventions to be provided by the UK National Health Service, has recently stated that preference-based-measures (PBMs) of wellbeing may be used in cost-effectiveness analyses, in addition to generic and condition-specific (CS) PBMs of health-related quality of life. We aimed to assess the comparative responsiveness of wellbeing, generic and CS PBMs in the context of multiple sclerosis (MS).\nMethods The MS Register (MSR) is a cohort, representative of the UK population of people with MS. In September 2019, March 2020 and September 2020, MSR respondents completed wellbeing PBMs– the ICEpop CAPability measure for Adults (ICECAP-A) and Adult Social Care Outcomes Toolkit (ASCOT); CS PBMs– the MS Impact Scale Eight Dimensions (MSIS-8D) and MSIS-8D-Patient (MSIS-8D-P); and a generic PBM- the EQ-5D-3L. They also completed the Fatigue Severity Scale, MS Walking Scale-12, Hospital Anxiety and Depression Scale, and a bespoke measure of ‘illness events’ that may have occurred between time-points e.g. a relapse, a new symptom, leaving employment due to MS. Responsiveness of the PBMs was compared in relation to changes in fatigue, mobility, anxiety and depression between time-points, and by the occurrence of illness events. Standardised response means and Cohen’s D were calculated, and t-tests used to assess change. Multivariable pooled OLS regression analyses were undertaken for each PBM with standard errors clustered by respondent. Variables were standardised to enable comparison.\nResults 1,742 individuals gave responses for at least two consecutive time-points. Overall, CS PBMs were the most responsive, followed by ICECAP-A, ASCOT and lastly the EQ-5D. For example, coefficients (95% CIs) in relation to changes in anxiety were: MSIS-8D -0.253 (-0.304,-0.202); MSIS-8D-P -0.248 (-0.300,-0.197); ICECAP-A -0.195 (-0.243,-0.147); ASCOT -0.170 (-0.217,-0.122); EQ-5D -0.162 (-0.219,-0.105). The PBMs were more responsive to changes in anxiety and depression than to changes in mobility or fatigue. They showed little responsiveness, and no consistent pattern, in relation to illness events.\nDiscussion Our results support the use of CS and wellbeing PBMs alongside the EQ-5D, to maximise the potential of detecting treatment benefits in cost-effectiveness analyses of treatments for MS. The lack of responsiveness to illness events may reflect limitations in the content or design of the illness events measure, however this was informed by a systematic search of qualitative literature and devised with a MS patient involvement group. Alternatively, the finding may be indicative of limited responsiveness of the PBMs to key illness events in the lives of people with MS.\n\n\n\n\n\n\n\n\n\nNoteHealth state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values\n\n\n\n\n\nObjectives The EQ-5D is a generic, preference-based-measure (PBM) of health-related quality of life, recommended by the National Institute of Health and Care Excellence in the UK as a source of health state values (HSVs) for the calculation of quality-adjusted life-years (QALYs). Concerns have been raised, however, about the sensitivity of the EQ-5D to differences and changes in the health-related quality of life of people with multiple sclerosis (MS). This has led to the development of MS-specific PBMs, such as the MS Impact Scale Eight Dimensions (MSIS-8D) and the MSIS-8D-Patient (MSIS-8D-P), which are based on public and patient preferences respectively. We aimed to compare the discriminative validity of the EQ-5D, MSIS-8D and MSIS-8D-P across a range of demographic and clinical characteristics, using data from a large UK cohort of people with MS.\nMethods UK MS Register responses from 2011 to 2019 were analysed descriptively and using multivariable linear regression to investigate the strength of independent relationships between demographic/clinical characteristics and HSVs on each of the PBMs. Robust regression was used as residuals did not meet assumptions of normality/homoscedasticity. Continuous variables were centred.\nResults There were 14,385 respondents. Mean age was 55.3 (11.4) years and 72.8% were female. Mean disease severity score on the Expanded Disability Status Scale (EDSS) was 5.1 (2.0). Mean EQ-5D, MSIS-8D and MSIS-8D-P values were 0.562 (0.308), 0.603 (0.18) and 0.643 (0.173) respectively. Compared to EQ-5D values, mean MSIS-8D and MSIS-8D-P values were generally higher and their absolute differences between groups by demographic/clinical characteristics were smaller. Regression analysis indicated that HSVs were significantly negatively associated with disease severity (EDSS) (p&lt;0.001) and significantly positively associated with age (p&lt;0.001) on all three measures.\nDiscussion This study provides a new source of generic and MS-specific HSVs, based on a recent, representative sample of people with MS in the UK, which can be used in economic evaluations. Many cost effectiveness analyses of treatments for MS still rely on a source of EQ-5D values collected in 2005. The HSVs reported here will better reflect current treatment practices, which have altered the profile of the UK MS population. The smaller differences between subgroups of people with MS that were identified by the MS-specific PBMs are likely due to the narrower range of HSVs for the MSIS-8D (0.079 to 0.882) and MSIS-8D-P (0.138 to 0.893), compared to the EQ-5D (-0.594 to 1). This is a common characteristic of PBMs other than the EQ-5D, and is an important factor to consider when comparing cost-effectiveness results based on different sources of HSVs.\n\n\n\n\n\n\n\n\n\n\n\nSpring Hackathon: Making Replications Count\n\n\n\n\n\nVisiting Münster for Spring Hackathon: Making Replications Count\n\n\n\n\n\nEuHEA with the University of Exeter Health Economics team"
+  },
+  {
+    "objectID": "community/index.html#hackathons",
+    "href": "community/index.html#hackathons",
+    "title": "Community",
+    "section": "",
+    "text": "4th - 6th May 2026.\nOrganised by FORRT (Framework for Open and Reproducible Research Training) (GitHub). I was part of a team developing a tool to automatically extract data from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication."
+  },
+  {
+    "objectID": "community/index.html#clubs",
+    "href": "community/index.html#clubs",
+    "title": "Community",
+    "section": "",
+    "text": "Coming soon!\nI will be helping to set up and support this club, with a focus on sharing best practices and encouraging reuse of simulation models and analytical code across NHS and academic settings.\n\n\n\nMarch - July 2025.\nI supported sessions at the coding club. This included helping participants during activities, and coordinating practical aspects such as organising food when the main organiser was unavailable."
+  },
+  {
+    "objectID": "community/index.html#conferences",
+    "href": "community/index.html#conferences",
+    "title": "Community",
+    "section": "",
+    "text": "9th - 11th September 2026.\nThe UK’s annual conference for the Research Software Engineering community, focused on reproducible, sustainable, and high-quality research software.\n\n\n\n8th July 2026.\nA regional conference bringing together healthcare analysts, data scientists, and infrastructure specialists to share applied work across NHS and academia.\n\n\n\n13th - 14th November 2025.\nThe NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.\n\n\n\n31st March - 2nd April 2025.\nConference focused on simulation modelling methods and applications across industry, defence, and healthcare.\n\n\n\n5th - 8th July 2022.\nAn international conference for health economists to present research on economic evaluation, policy, and health system performance.\nI shared two presentations at this conference:\n\n\n\n\n\n\nNoteExploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis\n\n\n\n\n\nObjectives The National Institute of Health and Care Excellence, which gives guidance on health/social care interventions to be provided by the UK National Health Service, has recently stated that preference-based-measures (PBMs) of wellbeing may be used in cost-effectiveness analyses, in addition to generic and condition-specific (CS) PBMs of health-related quality of life. We aimed to assess the comparative responsiveness of wellbeing, generic and CS PBMs in the context of multiple sclerosis (MS).\nMethods The MS Register (MSR) is a cohort, representative of the UK population of people with MS. In September 2019, March 2020 and September 2020, MSR respondents completed wellbeing PBMs– the ICEpop CAPability measure for Adults (ICECAP-A) and Adult Social Care Outcomes Toolkit (ASCOT); CS PBMs– the MS Impact Scale Eight Dimensions (MSIS-8D) and MSIS-8D-Patient (MSIS-8D-P); and a generic PBM- the EQ-5D-3L. They also completed the Fatigue Severity Scale, MS Walking Scale-12, Hospital Anxiety and Depression Scale, and a bespoke measure of ‘illness events’ that may have occurred between time-points e.g. a relapse, a new symptom, leaving employment due to MS. Responsiveness of the PBMs was compared in relation to changes in fatigue, mobility, anxiety and depression between time-points, and by the occurrence of illness events. Standardised response means and Cohen’s D were calculated, and t-tests used to assess change. Multivariable pooled OLS regression analyses were undertaken for each PBM with standard errors clustered by respondent. Variables were standardised to enable comparison.\nResults 1,742 individuals gave responses for at least two consecutive time-points. Overall, CS PBMs were the most responsive, followed by ICECAP-A, ASCOT and lastly the EQ-5D. For example, coefficients (95% CIs) in relation to changes in anxiety were: MSIS-8D -0.253 (-0.304,-0.202); MSIS-8D-P -0.248 (-0.300,-0.197); ICECAP-A -0.195 (-0.243,-0.147); ASCOT -0.170 (-0.217,-0.122); EQ-5D -0.162 (-0.219,-0.105). The PBMs were more responsive to changes in anxiety and depression than to changes in mobility or fatigue. They showed little responsiveness, and no consistent pattern, in relation to illness events.\nDiscussion Our results support the use of CS and wellbeing PBMs alongside the EQ-5D, to maximise the potential of detecting treatment benefits in cost-effectiveness analyses of treatments for MS. The lack of responsiveness to illness events may reflect limitations in the content or design of the illness events measure, however this was informed by a systematic search of qualitative literature and devised with a MS patient involvement group. Alternatively, the finding may be indicative of limited responsiveness of the PBMs to key illness events in the lives of people with MS.\n\n\n\n\n\n\n\n\n\nNoteHealth state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values\n\n\n\n\n\nObjectives The EQ-5D is a generic, preference-based-measure (PBM) of health-related quality of life, recommended by the National Institute of Health and Care Excellence in the UK as a source of health state values (HSVs) for the calculation of quality-adjusted life-years (QALYs). Concerns have been raised, however, about the sensitivity of the EQ-5D to differences and changes in the health-related quality of life of people with multiple sclerosis (MS). This has led to the development of MS-specific PBMs, such as the MS Impact Scale Eight Dimensions (MSIS-8D) and the MSIS-8D-Patient (MSIS-8D-P), which are based on public and patient preferences respectively. We aimed to compare the discriminative validity of the EQ-5D, MSIS-8D and MSIS-8D-P across a range of demographic and clinical characteristics, using data from a large UK cohort of people with MS.\nMethods UK MS Register responses from 2011 to 2019 were analysed descriptively and using multivariable linear regression to investigate the strength of independent relationships between demographic/clinical characteristics and HSVs on each of the PBMs. Robust regression was used as residuals did not meet assumptions of normality/homoscedasticity. Continuous variables were centred.\nResults There were 14,385 respondents. Mean age was 55.3 (11.4) years and 72.8% were female. Mean disease severity score on the Expanded Disability Status Scale (EDSS) was 5.1 (2.0). Mean EQ-5D, MSIS-8D and MSIS-8D-P values were 0.562 (0.308), 0.603 (0.18) and 0.643 (0.173) respectively. Compared to EQ-5D values, mean MSIS-8D and MSIS-8D-P values were generally higher and their absolute differences between groups by demographic/clinical characteristics were smaller. Regression analysis indicated that HSVs were significantly negatively associated with disease severity (EDSS) (p&lt;0.001) and significantly positively associated with age (p&lt;0.001) on all three measures.\nDiscussion This study provides a new source of generic and MS-specific HSVs, based on a recent, representative sample of people with MS in the UK, which can be used in economic evaluations. Many cost effectiveness analyses of treatments for MS still rely on a source of EQ-5D values collected in 2005. The HSVs reported here will better reflect current treatment practices, which have altered the profile of the UK MS population. The smaller differences between subgroups of people with MS that were identified by the MS-specific PBMs are likely due to the narrower range of HSVs for the MSIS-8D (0.079 to 0.882) and MSIS-8D-P (0.138 to 0.893), compared to the EQ-5D (-0.594 to 1). This is a common characteristic of PBMs other than the EQ-5D, and is an important factor to consider when comparing cost-effectiveness results based on different sources of HSVs."
+  },
+  {
     "objectID": "packages/index.html",
     "href": "packages/index.html",
     "title": "Packages",
@@ -21,25 +196,18 @@
     "text": "alt-text-linter\nGitHub action for linting alternative (alt) text in quarto markdown (.qmd) files.\nIn progress! Early in development\nGitHub: https://github.com/lintquarto/alt-text-linter"
   },
   {
-    "objectID": "contributions/stroke/index.html",
-    "href": "contributions/stroke/index.html",
-    "title": "Stroke",
+    "objectID": "contributions/json2ciw/index.html",
+    "href": "contributions/json2ciw/index.html",
+    "title": "json2ciw",
     "section": "",
-    "text": "This is a model developed by John Williams, a Stroke Performance Analyst at Maidstone and Tunbridge Wells NHS Trust. Additional tweaks, documentation and web app creation have been undertaken by Sammi Rosser. I have made some supporting contributions (since January 2026).\nGitHub: https://github.com/hsma-tools/stroke_model_des_hsma/tree/main\nWeb app:"
+    "text": "Since June 2026, I have contributed to the package json2ciw, developed by Tom Monks. It is a Python tool that can convert JSON files into functional Ciw simulation models.\nGitHub: https://github.com/sim-agent/json2ciw\nDocumentation:"
   },
   {
-    "objectID": "contributions/vidigi/index.html",
-    "href": "contributions/vidigi/index.html",
-    "title": "vidigi",
+    "objectID": "contributions/littlebookofdes/index.html",
+    "href": "contributions/littlebookofdes/index.html",
+    "title": "Little book of DES",
     "section": "",
-    "text": "Since June 2025, I have contributed to the package vidigi, developed by Sammi Rosser. It can be used to create animations for DES models in Python.\nGitHub: https://github.com/hsma-tools/vidigi\nDocumentation:"
-  },
-  {
-    "objectID": "contributions/forrt/index.html",
-    "href": "contributions/forrt/index.html",
-    "title": "FORRT (Framework for Open and Reproducible Research Training)",
-    "section": "",
-    "text": "FORRT (Framework for Open and Reproducible Research Training) is a global initiative promoting open, transparent, and reproducible research practices through community-driven resources and training.\nFLoRA (FORRT Library of Replication Attempts) is an open, curated database of replication studies, designed to improve the visibility and reuse of replication and reproduction research.\nAs part of a FORRT hackathon, I contributed to the development of the flora-extractor tool, which supports structured data extraction for FLoRA.\nYou can check out FLoRA here:"
+    "text": "In February 2025, I contributed to the HSMA little book of DES, a resource developed by Sammi Rosser and Dan Chalk."
   },
   {
     "objectID": "contributions/atlas/index.html",
@@ -49,11 +217,46 @@
     "text": "Since November 2025, I have been contributing to the Healthcare Services Analytics & Decision Science Atlas, which is being developed by Sammi Rosser."
   },
   {
-    "objectID": "contributions/littlebookofdes/index.html",
-    "href": "contributions/littlebookofdes/index.html",
-    "title": "Little book of DES",
+    "objectID": "contributions/simtools/index.html",
+    "href": "contributions/simtools/index.html",
+    "title": "sim-tools",
     "section": "",
-    "text": "In February 2025, I contributed to the HSMA little book of DES, a resource developed by Sammi Rosser and Dan Chalk."
+    "text": "Since February 2025, I have contributed to the package sim-tools, developed by Tom Monks. It supports DES in Python - for example, providing classes for different distributions and methods for estimating the appropriate number of replications.\nGitHub: https://github.com/sim-tools/sim-tools\nDocumentation:"
+  },
+  {
+    "objectID": "contributions/index.html",
+    "href": "contributions/index.html",
+    "title": "Contributions",
+    "section": "",
+    "text": "FORRT (Framework for Open and Reproducible Research Training)\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Services Analytics & Decision Science Atlas\n\n\n\n\n\n\n\n\n\n\n\n\nLittle book of DES\n\n\n\n\n\n\n\n\n\n\n\n\nModel reviews\n\n\nSupporting modellers to make their DES more reproducible and reusable\n\n\n\n\n\n\n\n\n\n\n\n\nPaper review\n\n\nPeer review for the Journal of Simulation\n\n\n\n\n\n\n\n\n\n\n\n\nStroke\n\n\nContributing to John Williams’ model of the hyperacute/acute stroke pathway\n\n\n\n\n\n\n\n\n\n\n\n\njson2ciw\n\n\nContributing to json2ciw package\n\n\n\n\n\n\n\n\n\n\n\n\nsim-tools\n\n\nContributing to python package\n\n\n\n\n\n\n\n\n\n\n\n\nvidigi\n\n\nContributing to python package\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/ipacs/index.html",
+    "href": "projects/ipacs/index.html",
+    "title": "IPACS",
+    "section": "",
+    "text": "In Spring 2023 I worked alongside Alison Harper to contribute to the discrete-time model on the project IPACS: Improving Patient flow between Acute, Community and Social care,\nModel code: I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed here). This contributed to the final repository hosted with NHS BNSSG Analytics.\nPackage and website: I also created an example of converting part of the model (the visit-based simulation) into an R package, as in this repository. This is supported by a website that provides an overview of how to run the model, and information about the model functions."
+  },
+  {
+    "objectID": "projects/ambulancedes/index.html",
+    "href": "projects/ambulancedes/index.html",
+    "title": "Ambulance DES",
+    "section": "",
+    "text": "I have recently started on this work, from April 2026 onwards."
+  },
+  {
+    "objectID": "projects/kailo/index.html",
+    "href": "projects/kailo/index.html",
+    "title": "Kailo",
+    "section": "",
+    "text": "I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools.\nThe video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at https://kailo.community/beewell/.\n\nWe planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.\n\nGitHub repository: https://github.com/kailo-beewell\nPackage used to produce dashboards: kailo-beewell-dashboard.\nStreamlit dashboards:\n\nStandard survey school dashboard - \nSymbol survey school dashboard - \nArea-level dashboard - \n\n\nI published a pre-registration on the Open Science Framework (10.17605/OSF.IO/85BVN) describing the the analysis plans for the dashboards, with two components describing each of the standard and symbol surveys.\nMy time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.\nExemplar screenshots from dashboards:"
+  },
+  {
+    "objectID": "projects/samuel2/index.html",
+    "href": "projects/samuel2/index.html",
+    "title": "SAMueL2 - Stroke Audit Machine Learning",
+    "section": "",
+    "text": "I worked on a few tasks for the SAMueL2 project in Spring 2023, supervised by Mike Allen. These were:\n\nData cleaning and descriptive analysis of SSNAP data (repository)\nDemographics of emergency stroke unit catchment areas (repository, website)"
   },
   {
     "objectID": "projects/desreproductions/index.html",
@@ -91,39 +294,11 @@
     "text": "STARS\nThis work was completed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
   },
   {
-    "objectID": "projects/desrapbook/index.html",
-    "href": "projects/desrapbook/index.html",
-    "title": "DES RAP Book",
+    "objectID": "projects/birthoutcomes/index.html",
+    "href": "projects/birthoutcomes/index.html",
+    "title": "Birth outcomes",
     "section": "",
-    "text": "I worked on this from December 2024 to April 2026. I developed the materials, and they were reviewed by Tom Monks, Alison Harper, Fatemeh Alidoost, Rob Challen, Tom Slater and Nav Mustafee."
-  },
-  {
-    "objectID": "projects/desrapbook/index.html#book",
-    "href": "projects/desrapbook/index.html#book",
-    "title": "DES RAP Book",
-    "section": "Book",
-    "text": "Book\nThe book is available at: https://pythonhealthdatascience.github.io/des_rap_book/"
-  },
-  {
-    "objectID": "projects/desrapbook/index.html#examples",
-    "href": "projects/desrapbook/index.html#examples",
-    "title": "DES RAP Book",
-    "section": "Examples",
-    "text": "Examples\nThe book is accompanied by four worked examples:\n\nPython M/M/s model - https://github.com/pythonhealthdatascience/pydesrap_mms\nR M/M/s model - https://github.com/pythonhealthdatascience/rdesrap_mms\nPython stroke model - https://github.com/pythonhealthdatascience/pydesrap_stroke\nR stroke model - https://github.com/pythonhealthdatascience/rdesrap_stroke"
-  },
-  {
-    "objectID": "projects/desrapbook/index.html#stars",
-    "href": "projects/desrapbook/index.html#stars",
-    "title": "DES RAP Book",
-    "section": "STARS",
-    "text": "STARS\nThis book was developed as part of the project STARS: Sharing Tools and Artefacts for Reproducible & Reusable Simulations in healthcare. I have created a website where you can find out more about this project: https://pythonhealthdatascience.github.io/stars/."
-  },
-  {
-    "objectID": "projects/healtheconomics/index.html",
-    "href": "projects/healtheconomics/index.html",
-    "title": "Health economics",
-    "section": "",
-    "text": "I worked in the University of Exeter Health Economics group in Spring and Summer 2022 - during and after my BSc degree. I was supervised by Annie Hawton and Liz Goodwin.\nPublications:\n\nA Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. https://doi.org/10.1177/20552173231178441.\nE Goodwin; A Heather; N Morrish; J Freeman; K Boddy; S Thomas; J Chataway; R Middleton; A Hawton. 2025. Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care, and Well-Being Measures in the Context of Multiple Sclerosis. Value in Health. https://doi.org/10.1016/j.jval.2025.09.3063.\n\nGitHub organisation"
+    "text": "I worked on this from October 2023 to April 2024, supervised by Mike Allen.\nI was reviewing and synthesising existing literature to help establish a foundation for this research."
   },
   {
     "objectID": "projects/index.html",
@@ -168,178 +343,10 @@
     "text": "2022\n\n\n\n\n\n\n\n\n\n\nHealth economics\n\n\nEstimating health-related quality of life utility values in multiple sclerosis.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/samuel2/index.html",
-    "href": "projects/samuel2/index.html",
-    "title": "SAMueL2 - Stroke Audit Machine Learning",
-    "section": "",
-    "text": "I worked on a few tasks for the SAMueL2 project in Spring 2023, supervised by Mike Allen. These were:\n\nData cleaning and descriptive analysis of SSNAP data (repository)\nDemographics of emergency stroke unit catchment areas (repository, website)"
-  },
-  {
-    "objectID": "projects/ambulancedes/index.html",
-    "href": "projects/ambulancedes/index.html",
-    "title": "Ambulance DES",
-    "section": "",
-    "text": "I have recently started on this work, from April 2026 onwards."
-  },
-  {
-    "objectID": "projects/testing/index.html",
-    "href": "projects/testing/index.html",
-    "title": "Testing in Research Workflows",
-    "section": "",
-    "text": "I developed these materials in collaboration with HDR UK between January and April 2026 as part of the STARS project.\nI produced a quarto site and accompanying videos (in development) for the HDR UK Futures training platform to introduce researchers to testing in research workflows."
-  },
-  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Discrete-event simulation\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            09-09-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n            Preprint\n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial\n        \n\n        \n          \n            Thomas Monks, Alison Harper, Amy Heather, Andrew Mayne & Navonil Mustafee\n          \n        \n\n        \n          \n            Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)\n             ˖ \n            03-31-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Protocol for assessing the computational reproducibility of discrete-event simulation models on STARS\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Zenodo\n             ˖ \n            20-06-2024\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Generative AI\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models\n        \n\n        \n          \n            Thomas Monks, Alison Harper & Amy Heather\n          \n        \n\n        \n          \n            Journal of the Operational Research Society\n             ˖ \n            09-10-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Health economics\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis\n        \n\n        \n          \n            Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Value in Health\n             ˖ \n            10-14-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Multiple sclerosis health-related quality of life utility values from the UK MS register\n        \n\n        \n          \n            Amy Heather, Elizabeth Goodwin, Colin Green, Nia Morrish, Obi Ukoumunne, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Multiple Sclerosis Journal— Experimental, Translational and Clinical\n             ˖ \n            06-02-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Mental health and wellbeing\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level\n        \n\n        \n          \n            Tim Hobbs, Ediane Santana De Lima, Dickon Bevington, Cristina Preece, Kate Allen, Pia Barna, Vashti Berry, Thomas Booker, Karuna Davies, George Davis, Jessica Deighton, Leanne Freeman, Peter Fuggle, Ellen Goddard, Tamsin Greene Barker, Julie Harris, Amy Heather, Mary-France Jardiel, Krishna Joshi, Megan Keenan, Laura Kennedy, Tamanna Malhotra, Anna March, Steve Pilling, Martin Pitt, Katie Potter, Nirandeep Rehill, Jenny Shand, Rachel Surtees & Peter Fonagy\n          \n        \n\n        \n          \n            Wellcome Open Research\n             ˖ \n            11-13-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Anatomy teaching\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          The Use of Virtual and Augmented Reality in Anatomy Teaching\n        \n\n        \n          \n            Amy Heather, Tudor Chinnah & Vikram Devaraj\n          \n        \n\n        \n          \n            MedEdPublish\n             ˖ \n            04-01-2019\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/birthoutcomes/index.html",
-    "href": "projects/birthoutcomes/index.html",
-    "title": "Birth outcomes",
-    "section": "",
-    "text": "I worked on this from October 2023 to April 2024, supervised by Mike Allen.\nI was reviewing and synthesising existing literature to help establish a foundation for this research."
-  },
-  {
-    "objectID": "projects/kailo/index.html",
-    "href": "projects/kailo/index.html",
-    "title": "Kailo",
-    "section": "",
-    "text": "I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools.\nThe video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at https://kailo.community/beewell/.\n\nWe planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.\n\nGitHub repository: https://github.com/kailo-beewell\nPackage used to produce dashboards: kailo-beewell-dashboard.\nStreamlit dashboards:\n\nStandard survey school dashboard - \nSymbol survey school dashboard - \nArea-level dashboard - \n\n\nI published a pre-registration on the Open Science Framework (10.17605/OSF.IO/85BVN) describing the the analysis plans for the dashboards, with two components describing each of the standard and symbol surveys.\nMy time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.\nExemplar screenshots from dashboards:"
-  },
-  {
-    "objectID": "projects/beginnerquarto/index.html",
-    "href": "projects/beginnerquarto/index.html",
-    "title": "Quarto for research",
-    "section": "",
-    "text": "I am delivering an in-person workshop for the Department of Health and Community Sciences at the University of Exeter on 1 June 2026 (1–4 pm). The session introduces researchers to Quarto, GitHub, and Markdown as tools for sharing and organising research more openly and reproducibly.\nAll materials are being developed openly and will remain available online:\n\nWorkshop site: https://pythonhealthdatascience.github.io/quarto-tutorial/\nWorkshop site GitHub: https://github.com/pythonhealthdatascience/quarto-tutorial/\nTemplate/Codespace used in workshop: https://github.com/pythonhealthdatascience/quarto-template\n\nThe aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs."
-  },
-  {
-    "objectID": "projects/oncology/index.html",
-    "href": "projects/oncology/index.html",
-    "title": "Oncology",
-    "section": "",
-    "text": "From July 2024 to October 2024 I worked on this model in conversation with Dawn Lee and Darren Burns.\nThis is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a clear README, website hosting detailed documentation, and a pilot web application for exploring treatment sequences."
-  },
-  {
-    "objectID": "projects/ipacs/index.html",
-    "href": "projects/ipacs/index.html",
-    "title": "IPACS",
-    "section": "",
-    "text": "In Spring 2023 I worked alongside Alison Harper to contribute to the discrete-time model on the project IPACS: Improving Patient flow between Acute, Community and Social care,\nModel code: I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed here). This contributed to the final repository hosted with NHS BNSSG Analytics.\nPackage and website: I also created an example of converting part of the model (the visit-based simulation) into an R package, as in this repository. This is supported by a website that provides an overview of how to run the model, and information about the model functions."
-  },
-  {
-    "objectID": "projects/nhsreuse/index.html",
-    "href": "projects/nhsreuse/index.html",
-    "title": "NHS model reuse study",
-    "section": "",
-    "text": "From February to April 2026, I have been working on this study alongside Lucy Morgan, Steffen Zscahler, Alison Harper, and Tom Monks.\nIt is a qualitative study to evaluate how a stroke simulation model I had developed could be reused in practice. Seven NHS data analysts were asked to work with the model, exploring its code, running it, and attempting to adapt it to their own contexts.\nWe then each carried out semi-structured interviews with participants to understand their experiences, challenges, and perceptions of the model. Using thematic analysis, we have identified key barriers and facilitators to reuse.\nWork in progress!"
-  },
-  {
-    "objectID": "projects/ambulanceforecast/index.html",
-    "href": "projects/ambulanceforecast/index.html",
-    "title": "Ambulance Forecasting",
-    "section": "",
-    "text": "Not yet started!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amy Heather",
-    "section": "",
-    "text": "POSTDOCTORAL RESEARCH ASSOCIATE AT THE UNIVERSITY OF EXETER\n  GitHub    LinkedIn    Email \n\n\n\n\nOpen reproducible\nhealth data analysis\nExperienced in developing and maintaining reproducible analytical workflows in Python and R, with a strong emphasis on transparency, adherence to best practices, and automation.\nSkilled in applying tools such as Quarto and Streamlit to create accessible, well-documented outputs, and in packaging, continuous integration and deployment, and testing to ensure robust, reliable, and shareable research code.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#selected-projects",
-    "href": "index.html#selected-projects",
-    "title": "Amy Heather",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "index.html#recent-publications",
-    "href": "index.html#recent-publications",
-    "title": "Amy Heather",
-    "section": "Recent publications",
-    "text": "Recent publications\n\n\n\n  \n    \n      \n\n    \n      \n\n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            Sep 9, 2025\n          \n        \n\n      \n    \n\n    \n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#other-links",
-    "href": "index.html#other-links",
-    "title": "Amy Heather",
-    "section": "Other links",
-    "text": "Other links\n  ORCID   Dimensions   Scopus   Exeter staff profile   Open Science Framework (OSF)   ResearchGate   Web of Science"
-  },
-  {
-    "objectID": "contributions/paperreview/index.html",
-    "href": "contributions/paperreview/index.html",
-    "title": "Paper review",
-    "section": "",
-    "text": "I have completed peer review for the Journal of Simulation."
-  },
-  {
-    "objectID": "contributions/index.html",
-    "href": "contributions/index.html",
-    "title": "Contributions",
-    "section": "",
-    "text": "FORRT (Framework for Open and Reproducible Research Training)\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Services Analytics & Decision Science Atlas\n\n\n\n\n\n\n\n\n\n\n\n\nLittle book of DES\n\n\n\n\n\n\n\n\n\n\n\n\nModel reviews\n\n\nSupporting modellers to make their DES more reproducible and reusable\n\n\n\n\n\n\n\n\n\n\n\n\nPaper review\n\n\nPeer review for the Journal of Simulation\n\n\n\n\n\n\n\n\n\n\n\n\nStroke\n\n\nContributing to John Williams’ model of the hyperacute/acute stroke pathway\n\n\n\n\n\n\n\n\n\n\n\n\nsim-tools\n\n\nContributing to python package\n\n\n\n\n\n\n\n\n\n\n\n\nvidigi\n\n\nContributing to python package\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contributions/simtools/index.html",
-    "href": "contributions/simtools/index.html",
-    "title": "sim-tools",
-    "section": "",
-    "text": "Since February 2025, I have contributed to the package sim-tools, developed by Tom Monks. It supports DES in Python - for example, providing classes for different distributions and methods for estimating the appropriate number of replications.\nGitHub: https://github.com/sim-tools/sim-tools\nDocumentation:"
-  },
-  {
-    "objectID": "contributions/modelreview/index.html",
-    "href": "contributions/modelreview/index.html",
-    "title": "Model reviews",
-    "section": "",
-    "text": "In May 2025 and February 2026, I was invited to review two existing simulation models."
-  },
-  {
-    "objectID": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
-    "href": "contributions/modelreview/index.html#hybrid-simulation-modelling-for-orthopaedics",
-    "title": "Model reviews",
-    "section": "Hybrid simulation modelling for orthopaedics",
-    "text": "Hybrid simulation modelling for orthopaedics\nThe model is available at:\n\nMatthew Howells , Paul Harper , Daniel Gartner , Geraint Palmer  (2025) Hybrid Simulation Modelling for Orthopaedics. GitHub. https://github.com/MHowells/HybridSimModel.\n\nIt combines:\n\nA system dynamics model used to model patient deterioration while waiting for a GP referral to primary care.\nA DES model used to model the patient journey through an orthopaedic department.\n\nIt is summarised in the poster “Clinical Pathway Modelling of a Trauma and Orthopaedics Department” from the OR Society’s 12th Simulation Workshop (SW25) conference\nI reviewed the model repository, providing the review as a GitHub issue (and an accompanying pull request). The review was structured into:\n\nA review summary.\nFeedback from running the code (e.g., dependency management, code troubleshooting).\nEvaluation against the STARS framework for model reuse.\nEvaluation against the STARS reproducibility recommendations.\n\n\n\n\n\n\n\nNoteExample snapshot from review\n\n\n\n\n\n\n\n\nScreenshot from the review GitHub issue"
-  },
-  {
-    "objectID": "contributions/modelreview/index.html#nurse-staffing-simulation",
-    "href": "contributions/modelreview/index.html#nurse-staffing-simulation",
-    "title": "Model reviews",
-    "section": "Nurse staffing simulation",
-    "text": "Nurse staffing simulation\nThe model is available at:\n\nTolusha Dahanayake Yapa , Peter Griffiths , Tom Monks , Chiara Dall’Ora , Ezekwesiri Nwanosike , Natalie Pattison , Christina Saville  (2026). Nurse Staffing Simulation Paper. GitHub. https://github.com/TolushaDYapa/NurseStaffingSimulation_Paper.\n\nI attempted to reproduce results in the draft paper, recording results in a GitHub issues and providing pull requests with some suggested changes.\nThis supported the addition of an environment file with all required dependencies, and identified a missing analysis script required for creating the paper tables."
-  },
-  {
-    "objectID": "community/index.html",
-    "href": "community/index.html",
-    "title": "Community",
-    "section": "",
-    "text": "4th - 6th May 2026.\nOrganised by FORRT (Framework for Open and Reproducible Research Training) (GitHub). I was part of a team developing a tool to automatically extract data from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication.\n\n\n\n\n\n\nComing soon!\nI will be helping to set up and support this club, with a focus on sharing best practices and encouraging reuse of simulation models and analytical code across NHS and academic settings.\n\n\n\nMarch - July 2025.\nI supported sessions at the coding club. This included helping participants during activities, and coordinating practical aspects such as organising food when the main organiser was unavailable.\n\n\n\n\n\n\n9th - 11th September 2026.\nThe UK’s annual conference for the Research Software Engineering community, focused on reproducible, sustainable, and high-quality research software.\n\n\n\n8th July 2026.\nA regional conference bringing together healthcare analysts, data scientists, and infrastructure specialists to share applied work across NHS and academia.\n\n\n\n13th - 14th November 2025.\nThe NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.\n\n\n\n31st March - 2nd April 2025.\nConference focused on simulation modelling methods and applications across industry, defence, and healthcare.\n\n\n\n5th - 8th July 2022.\nAn international conference for health economists to present research on economic evaluation, policy, and health system performance.\nI shared two presentations at this conference:\n\n\n\n\n\n\nNoteExploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis\n\n\n\n\n\nObjectives The National Institute of Health and Care Excellence, which gives guidance on health/social care interventions to be provided by the UK National Health Service, has recently stated that preference-based-measures (PBMs) of wellbeing may be used in cost-effectiveness analyses, in addition to generic and condition-specific (CS) PBMs of health-related quality of life. We aimed to assess the comparative responsiveness of wellbeing, generic and CS PBMs in the context of multiple sclerosis (MS).\nMethods The MS Register (MSR) is a cohort, representative of the UK population of people with MS. In September 2019, March 2020 and September 2020, MSR respondents completed wellbeing PBMs– the ICEpop CAPability measure for Adults (ICECAP-A) and Adult Social Care Outcomes Toolkit (ASCOT); CS PBMs– the MS Impact Scale Eight Dimensions (MSIS-8D) and MSIS-8D-Patient (MSIS-8D-P); and a generic PBM- the EQ-5D-3L. They also completed the Fatigue Severity Scale, MS Walking Scale-12, Hospital Anxiety and Depression Scale, and a bespoke measure of ‘illness events’ that may have occurred between time-points e.g. a relapse, a new symptom, leaving employment due to MS. Responsiveness of the PBMs was compared in relation to changes in fatigue, mobility, anxiety and depression between time-points, and by the occurrence of illness events. Standardised response means and Cohen’s D were calculated, and t-tests used to assess change. Multivariable pooled OLS regression analyses were undertaken for each PBM with standard errors clustered by respondent. Variables were standardised to enable comparison.\nResults 1,742 individuals gave responses for at least two consecutive time-points. Overall, CS PBMs were the most responsive, followed by ICECAP-A, ASCOT and lastly the EQ-5D. For example, coefficients (95% CIs) in relation to changes in anxiety were: MSIS-8D -0.253 (-0.304,-0.202); MSIS-8D-P -0.248 (-0.300,-0.197); ICECAP-A -0.195 (-0.243,-0.147); ASCOT -0.170 (-0.217,-0.122); EQ-5D -0.162 (-0.219,-0.105). The PBMs were more responsive to changes in anxiety and depression than to changes in mobility or fatigue. They showed little responsiveness, and no consistent pattern, in relation to illness events.\nDiscussion Our results support the use of CS and wellbeing PBMs alongside the EQ-5D, to maximise the potential of detecting treatment benefits in cost-effectiveness analyses of treatments for MS. The lack of responsiveness to illness events may reflect limitations in the content or design of the illness events measure, however this was informed by a systematic search of qualitative literature and devised with a MS patient involvement group. Alternatively, the finding may be indicative of limited responsiveness of the PBMs to key illness events in the lives of people with MS.\n\n\n\n\n\n\n\n\n\nNoteHealth state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values\n\n\n\n\n\nObjectives The EQ-5D is a generic, preference-based-measure (PBM) of health-related quality of life, recommended by the National Institute of Health and Care Excellence in the UK as a source of health state values (HSVs) for the calculation of quality-adjusted life-years (QALYs). Concerns have been raised, however, about the sensitivity of the EQ-5D to differences and changes in the health-related quality of life of people with multiple sclerosis (MS). This has led to the development of MS-specific PBMs, such as the MS Impact Scale Eight Dimensions (MSIS-8D) and the MSIS-8D-Patient (MSIS-8D-P), which are based on public and patient preferences respectively. We aimed to compare the discriminative validity of the EQ-5D, MSIS-8D and MSIS-8D-P across a range of demographic and clinical characteristics, using data from a large UK cohort of people with MS.\nMethods UK MS Register responses from 2011 to 2019 were analysed descriptively and using multivariable linear regression to investigate the strength of independent relationships between demographic/clinical characteristics and HSVs on each of the PBMs. Robust regression was used as residuals did not meet assumptions of normality/homoscedasticity. Continuous variables were centred.\nResults There were 14,385 respondents. Mean age was 55.3 (11.4) years and 72.8% were female. Mean disease severity score on the Expanded Disability Status Scale (EDSS) was 5.1 (2.0). Mean EQ-5D, MSIS-8D and MSIS-8D-P values were 0.562 (0.308), 0.603 (0.18) and 0.643 (0.173) respectively. Compared to EQ-5D values, mean MSIS-8D and MSIS-8D-P values were generally higher and their absolute differences between groups by demographic/clinical characteristics were smaller. Regression analysis indicated that HSVs were significantly negatively associated with disease severity (EDSS) (p&lt;0.001) and significantly positively associated with age (p&lt;0.001) on all three measures.\nDiscussion This study provides a new source of generic and MS-specific HSVs, based on a recent, representative sample of people with MS in the UK, which can be used in economic evaluations. Many cost effectiveness analyses of treatments for MS still rely on a source of EQ-5D values collected in 2005. The HSVs reported here will better reflect current treatment practices, which have altered the profile of the UK MS population. The smaller differences between subgroups of people with MS that were identified by the MS-specific PBMs are likely due to the narrower range of HSVs for the MSIS-8D (0.079 to 0.882) and MSIS-8D-P (0.138 to 0.893), compared to the EQ-5D (-0.594 to 1). This is a common characteristic of PBMs other than the EQ-5D, and is an important factor to consider when comparing cost-effectiveness results based on different sources of HSVs.\n\n\n\n\n\n\n\n\n\n\n\nSpring Hackathon: Making Replications Count\n\n\n\n\n\nVisiting Münster for Spring Hackathon: Making Replications Count\n\n\n\n\n\nEuHEA with the University of Exeter Health Economics team"
-  },
-  {
-    "objectID": "community/index.html#hackathons",
-    "href": "community/index.html#hackathons",
-    "title": "Community",
-    "section": "",
-    "text": "4th - 6th May 2026.\nOrganised by FORRT (Framework for Open and Reproducible Research Training) (GitHub). I was part of a team developing a tool to automatically extract data from published replication studies. This will support and expand the FORRT Library of Replication Attempts (FLoRA), improving access to structured evidence on replication."
-  },
-  {
-    "objectID": "community/index.html#clubs",
-    "href": "community/index.html#clubs",
-    "title": "Community",
-    "section": "",
-    "text": "Coming soon!\nI will be helping to set up and support this club, with a focus on sharing best practices and encouraging reuse of simulation models and analytical code across NHS and academic settings.\n\n\n\nMarch - July 2025.\nI supported sessions at the coding club. This included helping participants during activities, and coordinating practical aspects such as organising food when the main organiser was unavailable."
-  },
-  {
-    "objectID": "community/index.html#conferences",
-    "href": "community/index.html#conferences",
-    "title": "Community",
-    "section": "",
-    "text": "9th - 11th September 2026.\nThe UK’s annual conference for the Research Software Engineering community, focused on reproducible, sustainable, and high-quality research software.\n\n\n\n8th July 2026.\nA regional conference bringing together healthcare analysts, data scientists, and infrastructure specialists to share applied work across NHS and academia.\n\n\n\n13th - 14th November 2025.\nThe NHS-R / NHS.pycom open-source conference, centred on Python, R, and collaborative data science in healthcare.\n\n\n\n31st March - 2nd April 2025.\nConference focused on simulation modelling methods and applications across industry, defence, and healthcare.\n\n\n\n5th - 8th July 2022.\nAn international conference for health economists to present research on economic evaluation, policy, and health system performance.\nI shared two presentations at this conference:\n\n\n\n\n\n\nNoteExploring the responsiveness of preference-based wellbeing, condition-specific and generic measures in the context of multiple sclerosis\n\n\n\n\n\nObjectives The National Institute of Health and Care Excellence, which gives guidance on health/social care interventions to be provided by the UK National Health Service, has recently stated that preference-based-measures (PBMs) of wellbeing may be used in cost-effectiveness analyses, in addition to generic and condition-specific (CS) PBMs of health-related quality of life. We aimed to assess the comparative responsiveness of wellbeing, generic and CS PBMs in the context of multiple sclerosis (MS).\nMethods The MS Register (MSR) is a cohort, representative of the UK population of people with MS. In September 2019, March 2020 and September 2020, MSR respondents completed wellbeing PBMs– the ICEpop CAPability measure for Adults (ICECAP-A) and Adult Social Care Outcomes Toolkit (ASCOT); CS PBMs– the MS Impact Scale Eight Dimensions (MSIS-8D) and MSIS-8D-Patient (MSIS-8D-P); and a generic PBM- the EQ-5D-3L. They also completed the Fatigue Severity Scale, MS Walking Scale-12, Hospital Anxiety and Depression Scale, and a bespoke measure of ‘illness events’ that may have occurred between time-points e.g. a relapse, a new symptom, leaving employment due to MS. Responsiveness of the PBMs was compared in relation to changes in fatigue, mobility, anxiety and depression between time-points, and by the occurrence of illness events. Standardised response means and Cohen’s D were calculated, and t-tests used to assess change. Multivariable pooled OLS regression analyses were undertaken for each PBM with standard errors clustered by respondent. Variables were standardised to enable comparison.\nResults 1,742 individuals gave responses for at least two consecutive time-points. Overall, CS PBMs were the most responsive, followed by ICECAP-A, ASCOT and lastly the EQ-5D. For example, coefficients (95% CIs) in relation to changes in anxiety were: MSIS-8D -0.253 (-0.304,-0.202); MSIS-8D-P -0.248 (-0.300,-0.197); ICECAP-A -0.195 (-0.243,-0.147); ASCOT -0.170 (-0.217,-0.122); EQ-5D -0.162 (-0.219,-0.105). The PBMs were more responsive to changes in anxiety and depression than to changes in mobility or fatigue. They showed little responsiveness, and no consistent pattern, in relation to illness events.\nDiscussion Our results support the use of CS and wellbeing PBMs alongside the EQ-5D, to maximise the potential of detecting treatment benefits in cost-effectiveness analyses of treatments for MS. The lack of responsiveness to illness events may reflect limitations in the content or design of the illness events measure, however this was informed by a systematic search of qualitative literature and devised with a MS patient involvement group. Alternatively, the finding may be indicative of limited responsiveness of the PBMs to key illness events in the lives of people with MS.\n\n\n\n\n\n\n\n\n\nNoteHealth state values from a representative UK sample of people with Multiple Sclerosis (MS): A comparison of the generic, condition-specific, and condition-specific patient-weighted values\n\n\n\n\n\nObjectives The EQ-5D is a generic, preference-based-measure (PBM) of health-related quality of life, recommended by the National Institute of Health and Care Excellence in the UK as a source of health state values (HSVs) for the calculation of quality-adjusted life-years (QALYs). Concerns have been raised, however, about the sensitivity of the EQ-5D to differences and changes in the health-related quality of life of people with multiple sclerosis (MS). This has led to the development of MS-specific PBMs, such as the MS Impact Scale Eight Dimensions (MSIS-8D) and the MSIS-8D-Patient (MSIS-8D-P), which are based on public and patient preferences respectively. We aimed to compare the discriminative validity of the EQ-5D, MSIS-8D and MSIS-8D-P across a range of demographic and clinical characteristics, using data from a large UK cohort of people with MS.\nMethods UK MS Register responses from 2011 to 2019 were analysed descriptively and using multivariable linear regression to investigate the strength of independent relationships between demographic/clinical characteristics and HSVs on each of the PBMs. Robust regression was used as residuals did not meet assumptions of normality/homoscedasticity. Continuous variables were centred.\nResults There were 14,385 respondents. Mean age was 55.3 (11.4) years and 72.8% were female. Mean disease severity score on the Expanded Disability Status Scale (EDSS) was 5.1 (2.0). Mean EQ-5D, MSIS-8D and MSIS-8D-P values were 0.562 (0.308), 0.603 (0.18) and 0.643 (0.173) respectively. Compared to EQ-5D values, mean MSIS-8D and MSIS-8D-P values were generally higher and their absolute differences between groups by demographic/clinical characteristics were smaller. Regression analysis indicated that HSVs were significantly negatively associated with disease severity (EDSS) (p&lt;0.001) and significantly positively associated with age (p&lt;0.001) on all three measures.\nDiscussion This study provides a new source of generic and MS-specific HSVs, based on a recent, representative sample of people with MS in the UK, which can be used in economic evaluations. Many cost effectiveness analyses of treatments for MS still rely on a source of EQ-5D values collected in 2005. The HSVs reported here will better reflect current treatment practices, which have altered the profile of the UK MS population. The smaller differences between subgroups of people with MS that were identified by the MS-specific PBMs are likely due to the narrower range of HSVs for the MSIS-8D (0.079 to 0.882) and MSIS-8D-P (0.138 to 0.893), compared to the EQ-5D (-0.594 to 1). This is a common characteristic of PBMs other than the EQ-5D, and is an important factor to consider when comparing cost-effectiveness results based on different sources of HSVs."
+    "text": "Discrete-event simulation\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Reproducible analytical pipelines for healthcare discrete-event simulation: An open guide and worked examples\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Fatemeh Alidoost, Robert Challen, Thomas Slater, & Navonil Mustafee\n          \n        \n\n        \n          \n            NIHR Open Research\n             ˖ \n            16-06-2026\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Journal of Simulation\n             ˖ \n            09-09-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n            Preprint\n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Building healthcare discrete-event simulation models in free and open source software: an introductory tutorial\n        \n\n        \n          \n            Thomas Monks, Alison Harper, Amy Heather, Andrew Mayne & Navonil Mustafee\n          \n        \n\n        \n          \n            Proceedings of the Operational Research Society Simulation Workshop 2025 (SW25)\n             ˖ \n            03-31-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Protocol for assessing the computational reproducibility of discrete-event simulation models on STARS\n        \n\n        \n          \n            Amy Heather, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne\n          \n        \n\n        \n          \n            Zenodo\n             ˖ \n            20-06-2024\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Generative AI\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models\n        \n\n        \n          \n            Thomas Monks, Alison Harper & Amy Heather\n          \n        \n\n        \n          \n            Journal of the Operational Research Society\n             ˖ \n            09-10-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Health economics\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Comparative Responsiveness of Preference-Based Health-Related Quality of Life, Social Care and Wellbeing Measures in the Context of Multiple Sclerosis\n        \n\n        \n          \n            Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Value in Health\n             ˖ \n            10-14-2025\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n            GitHub\n          \n        \n      \n\n    \n\n      \n        \n\n    \n\n      \n        \n          Multiple sclerosis health-related quality of life utility values from the UK MS register\n        \n\n        \n          \n            Amy Heather, Elizabeth Goodwin, Colin Green, Nia Morrish, Obi Ukoumunne, Rod Middleton & Annie Hawton\n          \n        \n\n        \n          \n            Multiple Sclerosis Journal— Experimental, Translational and Clinical\n             ˖ \n            06-02-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Mental health and wellbeing\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          Kailo: a systemic approach to addressing the social determinants of young people's mental health and wellbeing at the local level\n        \n\n        \n          \n            Tim Hobbs, Ediane Santana De Lima, Dickon Bevington, Cristina Preece, Kate Allen, Pia Barna, Vashti Berry, Thomas Booker, Karuna Davies, George Davis, Jessica Deighton, Leanne Freeman, Peter Fuggle, Ellen Goddard, Tamsin Greene Barker, Julie Harris, Amy Heather, Mary-France Jardiel, Krishna Joshi, Megan Keenan, Laura Kennedy, Tamanna Malhotra, Anna March, Steve Pilling, Martin Pitt, Katie Potter, Nirandeep Rehill, Jenny Shand, Rachel Surtees & Peter Fonagy\n          \n        \n\n        \n          \n            Wellcome Open Research\n             ˖ \n            11-13-2023\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n    \n      Anatomy teaching\n    \n\n    \n      \n        \n\n    \n\n      \n        \n          The Use of Virtual and Augmented Reality in Anatomy Teaching\n        \n\n        \n          \n            Amy Heather, Tudor Chinnah & Vikram Devaraj\n          \n        \n\n        \n          \n            MedEdPublish\n             ˖ \n            04-01-2019\n          \n        \n\n        \n          \n            DOI\n          \n          \n          \n            PDF\n          \n          \n        \n      \n\n    \n\n      \n    \n\n  \n\n\nNo matching items"
   }
 ]
