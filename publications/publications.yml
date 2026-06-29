@@ -2,6 +2,13 @@
 
 - category: Discrete-event simulation
   tiles:
+    - title: "Reproducible analytical pipelines for healthcare discrete-event simulation: An open guide and worked examples"
+      authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Fatemeh Alidoost, Robert Challen, Thomas Slater, & Navonil Mustafee"
+      journal: NIHR Open Research
+      date: 16-06-2026
+      doi: https://doi.org/10.3310/nihropenres.14296.1
+      pdf: pdf/heather2026reproducible.pdf
+      github: https://github.com/pythonhealthdatascience/des_rap_book
     - title: "On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models"
       authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne"
       journal: Journal of Simulation
