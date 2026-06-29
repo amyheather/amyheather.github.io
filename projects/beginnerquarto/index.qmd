@@ -7,15 +7,15 @@ year: 2026
 
 <br>
 
-I am delivering an in-person workshop for the **Department of Health and Community Sciences** at the **University of Exeter** on **1 June 2026 (1–4 pm)**. The session introduces researchers to **Quarto**, **GitHub**, and **Markdown** as tools for sharing and organising research more openly and reproducibly.
+I delivered an in-person workshop for the **Department of Health and Community Sciences** at the **University of Exeter** on **1 June 2026**. The session introduced researchers to **Quarto**, **GitHub**, and **Markdown** as tools for sharing and organising research more openly and reproducibly.
 
-All materials are being developed openly and will remain available online:
+All materials were developed openly and remain available online:
 
 * Workshop site: <https://pythonhealthdatascience.github.io/quarto-tutorial/>
 * Workshop site GitHub: <https://github.com/pythonhealthdatascience/quarto-tutorial/>
 * Template/Codespace used in workshop: <https://github.com/pythonhealthdatascience/quarto-template>
 
-The aim is to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs.
+The aim was to provide a simple, reusable starting point for building Quarto websites that can serve as research homepages, project sites, or documentation hubs.
 
 <br>
 
