@@ -2,6 +2,14 @@
 
 - category: Discrete-event simulation
   tiles:
+    - title: "Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach"
+      authors: "Thomas Monks, Alison Harper, <strong>Amy Heather</strong> & Navonil Mustafee"
+      journal: arXiv
+      doi: https://doi.org/10.48550/arXiv.2607.24259
+      # preprint: https://doi.org/10.48550/arXiv.2607.24259
+      date: 27-07-2026
+      pdf: pdf/monks2026generative.pdf
+      github: https://github.com/sim-agent/sketch-to-des-pilot
     - title: "Reproducible analytical pipelines for healthcare discrete-event simulation: An open guide and worked examples"
       authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Fatemeh Alidoost, Robert Challen, Thomas Slater, & Navonil Mustafee"
       journal: NIHR Open Research
@@ -9,6 +17,14 @@
       doi: https://doi.org/10.3310/nihropenres.14296.1
       pdf: pdf/heather2026reproducible.pdf
       github: https://github.com/pythonhealthdatascience/des_rap_book
+    - title: "Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models"
+      authors: "Thomas Monks, Alison Harper & <strong>Amy Heather</strong>"
+      journal: Journal of the Operational Research Society
+      doi: https://doi.org/10.1080/01605682.2025.2554751
+      preprint: https://doi.org/10.48550/arXiv.2503.21646
+      date: 09-10-2025
+      pdf: pdf/monks2025unlocking.pdf
+      github: https://github.com/pythonhealthdatascience/llm_simpy
     - title: "On the reproducibility of discrete-event simulation studies in health research: an empirical study using open models"
       authors: "<strong>Amy Heather</strong>, Thomas Monks, Alison Harper, Navonil Mustafee & Andrew Mayne"
       journal: Journal of Simulation
@@ -31,16 +47,6 @@
       doi: https://doi.org/10.5281/zenodo.12179845
       pdf: pdf/heather2024protocol.pdf
       github: https://github.com/pythonhealthdatascience/stars_reproduction_template
-
-- category: Generative AI
-  tiles:
-    - title: "Unlocking the Potential of Past Research: Using Generative AI to Reconstruct Healthcare Simulation Models"
-      authors: "Thomas Monks, Alison Harper & <strong>Amy Heather</strong>"
-      journal: Journal of the Operational Research Society
-      doi: https://doi.org/10.1080/01605682.2025.2554751
-      date: 09-10-2025
-      pdf: pdf/monks2025unlocking.pdf
-      github: https://github.com/pythonhealthdatascience/llm_simpy
 
 - category: Health economics
   tiles:

@@ -7,6 +7,8 @@ year: 2025
 
 I worked on this from **December 2024 to April 2026**. I developed the materials, and they were reviewed by **Tom Monks**, **Alison Harper**, **Fatemeh Alidoost**, **Rob Challen**, **Tom Slater** and **Nav Mustafee**.
 
+This work is described in our [publication in the NIHR Open Research journal](https://doi.org/10.3310/nihropenres.14296.1).
+
 ## Book
 
 The book is available at: <https://pythonhealthdatascience.github.io/des_rap_book/>

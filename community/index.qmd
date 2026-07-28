@@ -6,6 +6,14 @@ title: Community
 
 :::: {.column width=55%}
 
+## Committees
+
+### NHS-OA RAP committee
+
+July 2026 onwards.
+
+I am part of the NHS Open Analytics (OA) Reproducible Analytical Pipelines (RAP) Committee.
+
 ## Hackathons
 
 ### Spring Hackathon: Making Replications Count
@@ -104,4 +112,3 @@ and using multivariable linear regression to investigate the strength of indepen
 :::
 
 ::::
-
