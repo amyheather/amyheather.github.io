@@ -8,20 +8,6 @@
     ]
   },
   {
-    "listing": "/contributions/index.html",
-    "items": [
-      "/contributions/forrt/index.html",
-      "/contributions/atlas/index.html",
-      "/contributions/littlebookofdes/index.html",
-      "/contributions/modelreview/index.html",
-      "/contributions/paperreview/index.html",
-      "/contributions/stroke/index.html",
-      "/contributions/json2ciw/index.html",
-      "/contributions/simtools/index.html",
-      "/contributions/vidigi/index.html"
-    ]
-  },
-  {
     "listing": "/projects/index.html",
     "items": [
       "/projects/ambulancedes/index.html",
@@ -42,5 +28,19 @@
   {
     "listing": "/publications/index.html",
     "items": []
+  },
+  {
+    "listing": "/contributions/index.html",
+    "items": [
+      "/contributions/forrt/index.html",
+      "/contributions/atlas/index.html",
+      "/contributions/littlebookofdes/index.html",
+      "/contributions/modelreview/index.html",
+      "/contributions/paperreview/index.html",
+      "/contributions/stroke/index.html",
+      "/contributions/json2ciw/index.html",
+      "/contributions/simtools/index.html",
+      "/contributions/vidigi/index.html"
+    ]
   }
 ]
